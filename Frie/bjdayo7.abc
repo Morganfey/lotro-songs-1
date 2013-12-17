@@ -1,28 +1,14 @@
-%  beetlejuice__day-o2
+%  Day-O - Beetlejuice 1988
 %  conversion by morganfey
 %  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
 %  3 Jul 6:27
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  septet: clarinet/beetlejuice__day-o2:1 - harp/beetlejuice__day-o2:2 - lute/beetlejuice__day-o2:3 - flute/beetlejuice__day-o2:6 - theorbo/beetlejuice__day-o2:9 - drums/beetlejuice__day-o2:10 - flute/beetlejuice__day-o2:11
-%  
+%  Artist: Harry Belafonte 1968
+%  Mood: calypso
 
 X:1
-T: clarinet: 1/7 beetlejuice__day-o2 [clarinet] Jul 3 (6:50)
+T: 1/7 [clarinet] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -999,7 +985,7 @@ z/4
 
 
 X:2
-T: harp: 2/7 beetlejuice__day-o2 [harp] Jul 3 (6:50)
+T: 2/7 [harp] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2267,7 +2253,7 @@ z/4
 
 
 X:3
-T: lute: 3/7 beetlejuice__day-o2 [lute] Jul 3 (6:50)
+T: 3/7 [lute] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -3710,7 +3696,7 @@ z/4
 
 
 X:4
-T: flute: 4/7 beetlejuice__day-o2 [flute] Jul 3 (6:50)
+T: 4/7 [flute] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -4740,7 +4726,7 @@ z/4
 
 
 X:5
-T: theorbo: 5/7 beetlejuice__day-o2 [theorbo] Jul 3 (6:50)
+T: 5/7 [theorbo] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -5782,7 +5768,7 @@ z/4
 
 
 X:6
-T: drums: 6/7 beetlejuice__day-o2 [drums] Jul 3 (6:50)
+T: 6/7 [drums] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -8199,7 +8185,7 @@ z/4
 
 
 X:7
-T: flute: 7/7 beetlejuice__day-o2 [flute 2] Jul 3 (6:50)
+T: 7/7 [flute] Day-O - Beetlejuice 1988 Jul 3 (6:50)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

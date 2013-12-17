@@ -6,23 +6,9 @@
 %  
 %  Artist: The Beatles
 %  Mood: rock, pop, 
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quintet: drums/anytimeatall(2):1 - clarinet/anytimeatall(2):2 - lute/anytimeatall(2):3 - harp/anytimeatall(2):4 - theorbo/anytimeatall(2):5
-%  
 
 X:1
-T: drums: 1/5 Anytime at all [drums] Jun 11 (3:12)
+T: 1/5 [drums] Jun 11 (3:12) Anytime at all-Beatles 
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1417,7 +1403,7 @@ z3/4
 
 
 X:2
-T: clarinet: 2/5 Anytime at all [clarinet] Jun 11 (3:12)
+T: 2/5 Anytime at all [clarinet] Jun 11 (3:12)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1842,7 +1828,7 @@ B/2
 
 
 X:3
-T: lute: 3/5 Anytime at all [lute] Jun 11 (3:12)
+T: 3/5 Anytime at all [lute] Jun 11 (3:12)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2469,7 +2455,7 @@ z3
 
 
 X:4
-T: harp: 4/5 Anytime at all [harp] Jun 11 (3:12)
+T: 4/5 Anytime at all [harp] Jun 11 (3:12)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2588,7 +2574,7 @@ z4 z4
 
 
 X:5
-T: theorbo: 5/5 Anytime at all [theorbo] Jun 11 (3:12)
+T: 5/5 Anytime at all [theorbo] Jun 11 (3:12)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

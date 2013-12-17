@@ -1,5 +1,7 @@
+% Revised instruments by morganfey 12-16-13
+
 X:1
-T:(clarinet/harmony) (2:50) Galadriel's Song of Eldamar 
+T: <Galadriel's Song of Eldamar> 1/4 Clarinet (2:50)  
 Z:Transcribed by Tirithannon - Elendilmir
 %  Composed by Mary Jean Holmes (www.mj-holmes.com)
 L:1/4
@@ -66,8 +68,8 @@ z/8 A3/8 c/2 d3/8 z/8 e3/8 D,/2 A,/2 D3/8 ^F/2 A/2 ^F3/8 A,/2 E/2
 A3/8 z/8 c3/8 d/2 e3/8 z/8 D,3/8 A,/2 D/2 ^F/2 A/2 d/2 A,/2 z/8 E/2
 A/2 z/8 c/2 d5/8 e5/8 [A,17/2E17/2A17/2] 
 
-X:1
-T:(harp/harmony) (2:50) Galadriel's Song of Eldamar 
+X:2
+T: <Galadriel's Song of Eldamar> 2/4 Harp (2:50) 
 Z:Transcribed by Tirithannon - Elendilmir
 %  Composed by Mary Jean Holmes (www.mj-holmes.com)
 L:1/4
@@ -133,8 +135,8 @@ z/8 A3/8 c/2 d3/8 z/8 e3/8 D,/2 A,/2 D3/8 ^F/2 A/2 ^F3/8 A,/2 E/2
 A3/8 z/8 c3/8 d/2 e3/8 z/8 D,3/8 A,/2 D/2 ^F/2 A/2 d/2 A,/2 z/8 E/2
 A/2 z/8 c/2 d5/8 e5/8 [A,17/2E17/2A17/2] 
 
-X:1
-T:(flute/melody) (2:50) Galadriel's Song of Eldamar 
+X:3
+T: <Galadriel's Song of Eldamar> 3/4 Clarinet (2:50)  
 Z:Transcribed by Tirithannon - Elendilmir
 %  Composed by Mary Jean Holmes (www.mj-holmes.com)
 L:1/4
@@ -164,8 +166,8 @@ A7/8 z/8 d7/4 d7/8 z/8 e7/4 z/8 f7/8 e29/8 z e7/8 a7/4 z/8 g7/8 e7/4
 z/8 e7/8 z/8 a7/4 e/2 d/2 e7/4 d7/8 z/8 e7/4 z/8 d7/8 e3/2 z/8 d/2
 c5/8 B5/8 A45/4 z19/4 e9/8 z/8 a47/8 
 
-X:1
-T:(lute/melody) (2:50) Galadriel's Song of Eldamar 
+X:4
+T: <Galadriel's Song of Eldamar> 4/4 Lute (2:50)  
 Z:Transcribed by Tirithannon - Elendilmir
 %  Composed by Mary Jean Holmes (www.mj-holmes.com)
 L:1/4

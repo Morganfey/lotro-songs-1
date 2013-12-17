@@ -6,24 +6,9 @@
 %  
 %  Artist: 
 %  Mood: irish, bardy, 
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  duo: bagpipe/boysofbrigade2:5 - lute/boysofbrigade2:6
-%  sextet: drums/boysofbrigade2:1 - lute/boysofbrigade2:2 - theorbo/boysofbrigade2:3 - bagpipe/boysofbrigade2:4 - flute/boysofbrigade2:7 - horn/boysofbrigade2:8
-%  
 
 X:1
-T: drums: 1/6 Boys of Brigade 2 [drums] Jun 28 (3:22)
+T: 1/6 Boys of Brigade 2 [drums] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1668,7 +1653,7 @@ z/4
 
 
 X:2
-T: lute: 2/6 Boys of Brigade 2 [lute] Jun 28 (3:22)
+T: 2/6 Boys of Brigade 2 [lute] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -3114,7 +3099,7 @@ z/4
 
 
 X:3
-T: theorbo: 3/6 Boys of Brigade 2 [theorbo] Jun 28 (3:22)
+T: 3/6 Boys of Brigade 2 [theorbo] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -3697,7 +3682,7 @@ z/2
 
 
 X:4
-T: bagpipe: 4/6 Boys of Brigade 2 [bagpipe] Jun 28 (3:22)
+T: 4/6 Boys of Brigade 2 [bagpipe] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -4185,7 +4170,7 @@ z/4
 
 
 X:5
-T: flute: 5/6 Boys of Brigade 2 [flute] Jun 28 (3:22)
+T: 5/6 Boys of Brigade 2 [flute] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -4673,7 +4658,7 @@ z/4
 
 
 X:6
-T: horn: 6/6 Boys of Brigade 2 [horn] Jun 28 (3:22)
+T: 6/6 Boys of Brigade 2 [horn] Jun 28 (3:22)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

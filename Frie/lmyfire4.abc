@@ -1,29 +1,15 @@
 %  
 %  conversion by morganfey
 %  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
-%  21 Apr 2:58
+%  21 Apr 2:58 Rev Dec 14-13
 %  using Firefern's ABC converter
 %  
-%  Artist: 
+%  Artist: The Doors
 %  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quintet: theorbo/doors-light_my_fire:1 - bagpipe/doors-light_my_fire:2 - lute/doors-light_my_fire:5 - harp/doors-light_my_fire:9 - drums/doors-light_my_fire:17
-%  quintet: theorbo/doors-light_my_fire:1 - bagpipe/doors-light_my_fire:2 - bagpipe/doors-light_my_fire:3 - lute/doors-light_my_fire:5 - clarinet/doors-light_my_fire:8
-%  
+
 
 X:1
-T: theorbo:  [theorbo] Apr 21 (6:38)
+T: 1/4 [theorbo] Apr 21 (6:38)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1230,7 +1216,7 @@ z7/2
 
 
 X:2
-T: bagpipe:  [bagpipe] Apr 21 (6:38)
+T: 2/4 [bagpipe] Apr 21 (6:38)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -3095,8 +3081,8 @@ z/4
 ^C,/4
 
 
-X:5
-T: lute:  [lute] Apr 21 (6:38)
+X:3
+T: 3/4 [lute] Apr 21 (6:38)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -4095,8 +4081,8 @@ z4
 +fff+ ^C,/4
 
 
-X:8
-T: clarinet:  [clarinet] Apr 21 (6:38)
+X:4
+T: 4/4 [clarinet] Apr 21 (6:38)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

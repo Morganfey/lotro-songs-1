@@ -4,25 +4,11 @@
 %  3 Jul 6:40
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quintet: clarinet/beetlejuice:1 - horn/beetlejuice:4 - theorbo/beetlejuice:5 - drums/beetlejuice:6 - flute/beetlejuice:10
-%  
+%  Artist: Beetlejuice - Movie theme 1988
+%  Mood: Spooky carnival
 
 X:1
-T: clarinet: 1/5 beetlejuice [clarinet] Jul 3 (1:53)
+T: 1/5 beetlejuice [clarinet] Jul 3 (1:53)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -852,7 +838,7 @@ z/4
 
 
 X:2
-T: horn: 2/5 beetlejuice [horn] Jul 3 (1:53)
+T: 2/5 beetlejuice [horn] Jul 3 (1:53)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1476,7 +1462,7 @@ z3/2
 
 
 X:3
-T: theorbo: 3/5 beetlejuice [theorbo] Jul 3 (1:53)
+T: 3/5 beetlejuice [theorbo] Jul 3 (1:53)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2307,7 +2293,7 @@ E,/4
 
 
 X:4
-T: drums: 4/5 beetlejuice [drums] Jul 3 (1:53)
+T: 4/5 beetlejuice [drums] Jul 3 (1:53)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2908,7 +2894,7 @@ z4
 
 
 X:5
-T: flute: 5/5 beetlejuice [flute] Jul 3 (1:53)
+T: 5/5 beetlejuice [flute] Jul 3 (1:53)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

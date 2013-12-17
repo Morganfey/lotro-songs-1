@@ -1,30 +1,14 @@
-%  sarabnde1
+%  Handel's Sarabande
 %  conversion by morganfey
 %  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
 %  21 Jun 11:05
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  duo: harp/sarabnde1:6 - lute/sarabnde1:9
-%  quartet: harp/sarabnde1:1 - theorbo/sarabnde1:2 - lute/sarabnde1:3 - lute/sarabnde1:4
-%  quintet: harp/sarabnde1:1 - theorbo/sarabnde1:2 - lute/sarabnde1:3 - lute/sarabnde1:4 - clarinet/sarabnde1:5
-%  
+%  Artist: Handel
+%  Mood: Classical
 
-X:6
-T: harp: sarabnde1 [harp 2] Jun 21 (4:51)
+X:1
+T: Sarabande #1 - Handel 1/2 [harp] Jun 21 (4:51)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -981,8 +965,8 @@ z/2
 [=F13/4=A13/4=d13/4]
 
 
-X:9
-T: lute: sarabnde1 [lute 3] Jun 21 (4:51)
+X:2
+T: Sarabande #1 - Handel 2/2 [lute] Jun 21 (4:51)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
