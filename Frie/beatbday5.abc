@@ -1,29 +1,14 @@
-%  birthday(2)
+%  Birthday - Beatles 1968
 %  conversion by morganfey
 %  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
 %  29 Jun 8:55
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quartet: theorbo/birthday(2):1 - drums/birthday(2):8 - bagpipe/birthday(2):9 - clarinet/birthday(2):10
-%  quintet: theorbo/birthday(2):1 - clarinet/birthday(2):3 - lute/birthday(2):5 - flute/birthday(2):7 - drums/birthday(2):8
-%  
+%  Artist: Beatles
+%  Mood: Rock
 
 X:1
-T: theorbo: 1/5 birthday(2) [theorbo] Jun 29 (2:37)
+T: 1/5 [theorbo] Birthday - Beatles 1968 Jun 29 (2:37)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -688,7 +673,7 @@ z/4
 
 
 X:2
-T: clarinet: 2/5 birthday(2) [clarinet] Jun 29 (2:37)
+T: 2/5 [clarinet] Birthday - Beatles 1968 Jun 29 (2:37)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1310,7 +1295,7 @@ z/4
 
 
 X:3
-T: lute: 3/5 birthday(2) [lute] Jun 29 (2:37)
+T: 3/5 [lute] Birthday - Beatles 1968 Jun 29 (2:37)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1511,7 +1496,7 @@ z4
 
 
 X:4
-T: flute: 4/5 birthday(2) [flute] Jun 29 (2:37)
+T: 4/5 [flute] Birthday - Beatles 1968 Jun 29 (2:37)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2070,7 +2055,7 @@ z/4
 
 
 X:5
-T: drums: 5/5 birthday(2) [drums] Jun 29 (2:37)
+T: 5/5 [drums] Birthday - Beatles 1968 Jun 29 (2:37)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

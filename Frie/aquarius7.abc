@@ -7,22 +7,9 @@
 %  Artist: 
 %  Mood: unknown
 %  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  septet: harp/hair:1 - theorbo/hair:2 - lute/hair:3 - flute/hair:4 - flute/hair:5 - clarinet/hair:7 - drums/hair:10
-%  
 
 X:1
-T: harp: Aquarius [1/7] Jul 8 (2:21)
+T: 1/7 [harp] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -678,7 +665,7 @@ z/2
 
 
 X:2
-T: theorbo: Aquarius [2/7] Jul 8 (2:21)
+T: 2/7 [theorbo] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1289,7 +1276,7 @@ z/4
 
 
 X:3
-T: lute: Aquarius [3/7] Jul 8 (2:21)
+T: 3/7 [lute] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1361,7 +1348,7 @@ z/2
 
 
 X:4
-T: flute: Aquarius [4/7 flute1] Jul 8 (2:21)
+T: 4/7 [flute] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1645,7 +1632,7 @@ z2
 
 
 X:5
-T: flute: Aquarius [5/7 flute2] Jul 8 (2:21)
+T: 5/7 [flute] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1822,7 +1809,7 @@ z3/2
 
 
 X:6
-T: clarinet: Aquarius [6/7] Jul 8 (2:21)
+T: 6/7 [clarinet] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2032,7 +2019,7 @@ z/4
 
 
 X:7
-T: drums: Aquarius [7/7] Jul 8 (2:21)
+T: 7/7 [drums] Aquarius-5th Dimension 1967 Jul 8 (2:21)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

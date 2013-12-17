@@ -1,5 +1,5 @@
 X:1
-T:satie gnossienne1 hARP (3:07)
+T:satie gnossienne1 1/3 Harp (3:07)
 Z:Transcribed by Seaholly (Laurelin/hobbit/minstrel) using LotRO MIDI Player:http://lotro.acasylum.com/midi
 %  Original file:satie_gnoissienne1.mid
 %  Transpose:-11
@@ -66,7 +66,7 @@ A/8 [B15/8B,] [^F,2B,2D2z7/8] A/8 [^G15/8z] [^F,B,Dz7/8] A/8
 [A,2^C2^F2] [A,^C^F] 
 
 X:2
-T:satie gnossienne1 hARP (3:07)
+T:satie gnossienne1 2/3 Harp (3:07)
 Z:Transcribed by Seaholly (Laurelin/hobbit/minstrel) using LotRO MIDI Player:http://lotro.acasylum.com/midi
 %  Original file:satie_gnoissienne1.mid
 %  Transpose:-11
@@ -133,7 +133,7 @@ A/8 [B15/8B,] [^F,2B,2D2z7/8] A/8 [^G15/8z] [^F,B,Dz7/8] A/8
 [A,2^C2^F2] [A,^C^F] 
 
 X:3
-T:satie gnossienne1 lUTE (3:07)
+T:satie gnossienne1 3/3 Lute (3:07)
 Z:Transcribed by Seaholly (Laurelin/hobbit/minstrel) using LotRO MIDI Player:http://lotro.acasylum.com/midi
 %  Original file:satie_gnoissienne1.mid
 %  Transpose:-11

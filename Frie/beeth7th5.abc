@@ -1,29 +1,15 @@
-%  beeth7th2
+%  Beethoven 7th  
 %  conversion by morganfey
 %  http://fefeconv.mirar.org/?filter_user=morganfey&view=all
 %  26 Jun 22:00
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  trio: flute/beeth7th2:1 - clarinet/beeth7th2:2 - theorbo/beeth7th2:12
-%  quintet: clarinet/beeth7th2:3 - clarinet/beeth7th2:4 - flute/beeth7th2:6 - flute/beeth7th2:7 - theorbo/beeth7th2:12
+%  Artist: Beethoven 
+%  Mood: Classical
 %  
 
 X:1
-T: clarinet: 1/5 beeth7th2 [clarinet 2] Jun 26 (6:10)
+T: 1/5 Beethoven 7th [clarinet] Jun 26 (6:10)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1472,7 +1458,7 @@ B2
 
 
 X:2
-T: clarinet: 2/5 beeth7th2 [clarinet 3] Jun 26 (6:10)
+T: 2/5 Beethoven 7th [clarinet] Jun 26 (6:10)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1952,7 +1938,7 @@ z4 z4 z4 z2
 
 
 X:3
-T: flute: 3/5 beeth7th2 [flute 2] Jun 26 (6:10)
+T: 3/5 Beethoven 7th [flute] Jun 26 (6:10)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -2374,7 +2360,7 @@ z4 z4 z4 z2
 
 
 X:4
-T: flute: 4/5 beeth7th2 [flute 3] Jun 26 (6:10)
+T: 4/5 Beethoven 7th  [flute] Jun 26 (6:10)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -3311,7 +3297,7 @@ z2
 
 
 X:5
-T: theorbo: 5/5 beeth7th2 [theorbo] Jun 26 (6:10)
+T: 5/5 Beethoven 7th [theorbo] Jun 26 (6:10)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

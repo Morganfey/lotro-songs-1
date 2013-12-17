@@ -4,25 +4,12 @@
 %  22 Mar 8:03
 %  using Firefern's ABC converter
 %  
-%  Artist: 
-%  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quartet: flute/bramsdracula:1 - clarinet/bramsdracula:2 - lute/bramsdracula:3 - theorbo/bramsdracula:4
-%  
+%  Artist: Wojciech Kilar
+%  Mood: Spooky - Melodramatic
+
 
 X:1
-T: flute: 1/4 [flute] Mar 22 (3:00)
+T: 1/4 [flute] Stoker's Dracula 1992 Mar 22 (3:00)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -241,7 +228,7 @@ z/2
 
 
 X:2
-T: clarinet: 2/4 [clarinet] Mar 22 (3:00)
+T:  2/4 [clarinet] Stoker's Dracula 1992 Mar 22 (3:00)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -536,7 +523,7 @@ z/2
 
 
 X:3
-T: lute: 3/4 [lute] Mar 22 (3:00)
+T: 3/4 [lute] Stoker's Dracula 1992 Mar 22 (3:00)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1368,7 +1355,7 @@ z/2
 
 
 X:4
-T: theorbo: 4/4 [theorbo] Mar 22 (3:00)
+T: 4/4 [theorbo] Stoker's Dracula 1992 Mar 22 (3:00)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)

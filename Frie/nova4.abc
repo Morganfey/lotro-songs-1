@@ -7,28 +7,9 @@
 %  Artist: Traditional
 %  Mood: irish, hobbity, scottish
 %  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  duo: clarinet/novascot:1 - theorbo/novascot:2
-%  duo: clarinet/novascot:1 - harp/novascot:11
-%  trio: clarinet/novascot:1 - theorbo/novascot:3 - harp/novascot:4
-%  quartet: theorbo/novascot:3 - harp/novascot:4 - bagpipe/novascot:5 - clarinet/novascot:6
-%  quintet: theorbo/novascot:3 - bagpipe/novascot:5 - clarinet/novascot:6 - harp/novascot:7 - lute/novascot:8
-%  sextet: bagpipe/novascot:5 - clarinet/novascot:6 - harp/novascot:7 - lute/novascot:8 - theorbo/novascot:9 - theorbo/novascot:10
-%  extra instruments (in order): bagpipe/novascot:5 - clarinet/novascot:6 - harp/novascot:7 - harp/novascot:4 - lute/novascot:8
-%  
 
 X:1
-T: Farewell to Nova Scotia 1/3 [clarinet] Nov 7 (2:35)
+T: Farewell to Nova Scotia 1/4 [flute] Nov 7 (2:35)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -462,7 +443,7 @@ E5/2-
 
 
 X:2
-T: Farewell to Nova Scotia 2/3 [harp] Nov 7 (2:35)
+T: Farewell to Nova Scotia 2/4 [harp] Nov 7 (2:35)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1478,7 +1459,7 @@ E,/4
 
 
 X:3
-T: Farewell to Nova Scotia 3/3 [theorbo] Nov 7 (2:35)
+T: Farewell to Nova Scotia 3/4 [theorbo] Nov 7 (2:35)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
@@ -1832,3 +1813,435 @@ B,/4
 [E,13/2E13/2]
 
 
+X:4
+T: Farewell to Nova Scotia  4/4 [bagpipe] Nov 7 (2:35)
+Z: Transcribed by Firefern's ABC sequencer
+%  Transcribed for Lord of the Rings Online playing
+%  Transpose: 0 (0 octaves)
+%  Tempo factor: 100%
+L: 1/4
+K: C
+Q: 1/4=230
+z2
++p+ =G3/2
+=A/2
+B
+=A/4
+B/4
+=A/2
+=G
+^F
+E
+^F/4
+=G/4
+^F/2
+E
+=D
+B,2
+E7/4-
+[=D/4E/4]
+E43/4
+z13/4
+=D2
+=G3
+=A
+=G2
+B,
+=C
+=D2
+=D
+B,
+=D2
+=G
+^F
+E3
+^F
+=G
+=G2
+=A
+B2
+E
+=D
+E6
+=G
+=A
+B3/2
+B/2
+B
+B
+=A2
+=A
+^F
+=D3/2
+=D/2
+=D
+^F
+=A2
+=G
+=A
+B
+=A
+=G
+^F
+E
+^F
+E
+=D
+B,2
+E2
+E6
+[E=G]
+[^F=A]
+[=G3/2B3/2]
+[=G/2B/2]
+[=GB]
+[=A=c]
+[=G2B2]
+[B,B]
+[=C=G]
+[=D2B2]
+[=DB]
+[B,=G]
+[=D2B2]
+[=GB]
+[^F=A]
+[E3=G3]
+[^F=A]
+[=G3B3]
+[=A=d]
+[B2e2]
+[EB]
+[=D=A]
+[E6B6]
+[=GB]
+[=A=c]
+[B3/2=d3/2]
+[B/2=d/2]
+[B=d]
+[B=d]
+[=A2=c2]
+[=A=c]
+[^F=A]
+[=D3/2^F3/2]
+[=D/2^F/2]
+[=D^F]
+[^F=A]
+[=A2=c2]
+[=GB]
+[=A=c]
+[B=d]
+[=A=c]
+[=GB]
+[^F=A]
+[E=G]
+[^F=A]
+[E=G]
+[=D^F]
+[B,2E2]
+[E2=G2]
+[E2-=G2]
+[E-=G]
+[E-=A]
+[E-B]
+[E/4-=A/4]
+[E/4-B/4]
+[E/2=A/2]
+=G
+^F
+E
+^F/4
+=G/4
+^F/2
+E
+=D
+B,2
+E7/4-
+[=D/4E/4]
+E6
++p+ =D2
+=G3
+=A
+=G2
+B,
+=C
+=D2
+=D
+B,
+=D2
+=G
+^F
+E3
+^F
+=G
+=G2
+=A
+B2
+E
+=D
+E6
+=G
+=A
+B3/2
+B/2
+B
+B
+=A2
+=A
+^F
+=D3/2
+=D/2
+=D
+^F
+=A2
+=G
+=A
+B
+=A
+=G
+^F
+E
+^F
+E
+=D
+B,2
+E2
+E6
++p+ [E=G]
+[^F=A]
+[=G3/2B3/2]
+[=G/2B/2]
+[=GB]
+[=A=c]
+[=G2B2]
+[B,B]
+[=C=G]
+[=D2B2]
+[=DB]
+[B,=G]
+[=D2B2]
+[=GB]
+[^F=A]
+[E3=G3]
+[^F=A]
+[=G3B3]
+[=A=d]
+[B2e2]
+[EB]
+[=D=A]
+[E6B6]
+[=GB]
+[=A=c]
+[B3/2=d3/2]
+[B/2=d/2]
+[B=d]
+[B=d]
+[=A2=c2]
+[=A=c]
+[^F=A]
+[=D3/2^F3/2]
+[=D/2^F/2]
+[=D^F]
+[^F=A]
+[=A2=c2]
+[=GB]
+[=A=c]
+[B=d]
+[=A=c]
+[=GB]
+[^F=A]
+[E=G]
+[^F=A]
+[E=G]
+[=D^F]
+[B,2E2]
+[E2=G2]
+[E2-=G2]
+[E-=G]
+[E-=A]
+[E-B]
+[E/4-=A/4]
+[E/4-B/4]
+[E/2=A/2]
+=G
+^F
+E
+^F/4
+=G/4
+^F/2
+E
+=D
+B,2
+E7/4-
+[=D/4E/4]
+E6
++p+ =D2
+=G3
+=A
+=G2
+B,
+=C
+=D2
+=D
+B,
+=D2
+=G
+^F
+E3
+^F
+=G
+=G2
+=A
+B2
+E
+=D
+E6
+=G
+=A
+B3/2
+B/2
+B
+B
+=A2
+=A
+^F
+=D3/2
+=D/2
+=D
+^F
+=A2
+=G
+=A
+B
+=A
+=G
+^F
+E
+^F
+E
+=D
+B,2
+E2
+E6
++p+ [E=G]
+[^F=A]
+[=G3/2B3/2]
+[=G/2B/2]
+[=GB]
+[=A=c]
+[=G2B2]
+[B,B]
+[=C=G]
+[=D2B2]
+[=DB]
+[B,=G]
+[=D2B2]
+[=GB]
+[^F=A]
+[E3=G3]
+[^F=A]
+[=G3B3]
+[=A=d]
+[B2e2]
+[EB]
+[=D=A]
+[E6B6]
+[=GB]
+[=A=c]
+[B3/2=d3/2]
+[B/2=d/2]
+[B=d]
+[B=d]
+[=A2=c2]
+[=A=c]
+[^F=A]
+[=D3/2^F3/2]
+[=D/2^F/2]
+[=D^F]
+[^F=A]
+[=A2=c2]
+[=GB]
+[=A=c]
+[B=d]
+[=A=c]
+[=GB]
+[^F=A]
+[E=G]
+[^F=A]
+[E=G]
+[=D^F]
+[B,2E2]
+[E2=G2]
+[E2-=G2]
+E4
+[E=G]
+[^F=A]
+[=G3/2B3/2]
+[=G/2B/2]
+[=GB]
+[=A=c]
+[=G2B2]
+[B,B]
+[=C=G]
+[=D2B2]
+[=DB]
+[B,=G]
+[=D2B2]
+[=GB]
+[^F=A]
+[E3=G3]
+[^F=A]
+[=G3B3]
+[=A=d]
+[B2e2]
+[EB]
+[=D=A]
+[E6B6]
+[=GB]
+[=A=c]
+[B3/2=d3/2]
+[B/2=d/2]
+[B=d]
+[B=d]
+[=A2=c2]
+[=A=c]
+[^F=A]
+[=D3/2^F3/2]
+[=D/2^F/2]
+[=D^F]
+[^F=A]
+[=A2=c2]
+[=GB]
+[=A=c]
+[B=d]
+[=A=c]
+[=GB]
+[^F=A]
+[E=G]
+[^F=A]
+[E=G]
+[=D^F]
+[B,2E2]
+[E2=G2]
+[E2-=G2]
+[E-=G]
+[E-=A]
+E/4-
+[E-B]
+[E/4-=A/4]
+[E/4-B/4]
+[E/4=A/4-]
+=A/4
+=G5/4
+^F
+z/4
+E
+^F/4
+z/4
+=G/4
+^F/2
+E5/4
+=D5/4
+B,11/4
+E5/2-
+[=D/4E/4]
++p+ E47/4
