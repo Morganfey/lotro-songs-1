@@ -1,7 +1,7 @@
 %%song-title       awolnation-sail
 %%song-composer    
 %%song-duration    3:44
-%%song-transcriber Satior 
+%%song-transcriber ~Satior 
 
 %%abc-creator Maestro v1.0.0
 %%abc-version 2.0
@@ -10,7 +10,7 @@
 X: 1
 T: awolnation-sail (3:44) - Lute
 %%part-name Lute
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -143,7 +143,7 @@ z8 |]
 X: 6
 T: awolnation-sail (3:44) - Lute 2
 %%part-name Lute 2
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -276,28 +276,28 @@ f2 ^f2 ^g2 =f2 |
 X: 2
 T: awolnation-sail (3:44) - Harp
 %%part-name Harp
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
 
-+mf+ ^D,2 D,2 D,2 D,2 |
-^D,2 D,2 D,2 D,2 |
-^D,2 D,2 D,2 D,2 |
-^D,2 D,2 D,2 D,2 |
-^C,2 C,2 C,2 C,2 |
-^C,2 C,2 C,2 C,2 |
-^F,2 F,2 F,2 F,2 |
++mf+ ^D2 D2 D2 D2 |
+^D2 D2 D2 D2 |
+^D2 D2 D2 D2 |
+^D2 D2 D2 D2 |
 ^C2 C2 C2 C2 |
-^D,2 D,2 D,2 D,2 |
+^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
+^D2 D2 D2 D2 |
 % Bar 10 (0:18)
-^D,2 D,2 D,2 D,2 |
-^D,2 D,2 D,2 D,2 |
-^D,2 D,2 D,2 D,2 |
-^C,2 C,2 C,2 C,2 |
-^C,2 C,2 C,2 C,2 |
-^F,2 F,2 F,2 F,2 |
+^D2 D2 D2 D2 |
+^D2 D2 D2 D2 |
+^D2 D2 D2 D2 |
 ^C2 C2 C2 C2 |
+^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -314,17 +314,17 @@ z8 |
 z8 |
 % Bar 30 (0:58)
 z8 |
-^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
 z8 |
 z8 |
 z8 |
-^F,2 F,2 F,2 F,2 |
+^F2 F2 F2 F2 |
 % Bar 40 (1:18)
-^C2 C2 C2 C2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -340,8 +340,8 @@ z8 |
 z8 |
 z8 |
 z8 |
-^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -349,8 +349,8 @@ z8 |
 z8 |
 z8 |
 z8 |
-^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -358,8 +358,8 @@ z8 |
 z8 |
 % Bar 70 (2:18)
 z8 |
-^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z2 +mp+ ^d3/2 ^c/ d3/2 c/ ^a3/2 c/ |
 ^d3/2 ^c/ d3/2 c/ d3/2 c/ ^a d |
 z2 ^d3/2 ^c/ d3/2 c/ ^a3/2 c/ |
@@ -384,8 +384,8 @@ z8 |
 z8 |
 z8 |
 z8 |
-+mf+ ^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
++mf+ ^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -393,8 +393,8 @@ z8 |
 z8 |
 z8 |
 z8 |
-^F,2 F,2 F,2 F,2 |
-^C2 C2 C2 C2 |
+^F2 F2 F2 F2 |
+^c2 c2 c2 c2 |
 z8 |
 z8 |
 z8 |
@@ -409,7 +409,7 @@ z8 |]
 X: 3
 T: awolnation-sail (3:44) - Theorbo
 %%part-name Theorbo
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -422,112 +422,112 @@ z8 |
 z8 |
 z8 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 % Bar 10 (0:18)
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 % Bar 20 (0:38)
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 % Bar 30 (0:58)
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
+^F4 z4 |
 % Bar 40 (1:18)
-^C4 z4 |
-^D,4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 % Bar 50 (1:38)
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 % Bar 60 (1:58)
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 % Bar 70 (2:18)
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
+^F4 z4 |
 % Bar 80 (2:38)
-^C4 z4 |
-^D,4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 % Bar 90 (2:58)
 z8 |
-^D,4 z4 |
+^D4 z4 |
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
-^D,4 z4 |
+^F4 z4 |
+^c4 z4 |
+^D4 z4 |
 z8 |
-^D,4 z4 |
+^D4 z4 |
 % Bar 100 (3:18)
 z8 |
-^C4 z4 |
+^c4 z4 |
 z8 |
-^F,4 z4 |
-^C4 z4 |
+^F4 z4 |
+^c4 z4 |
 z8 |
 z8 |
 z8 |
@@ -542,7 +542,7 @@ z8 |]
 X: 4
 T: awolnation-sail (3:44) - Flute
 %%part-name Flute
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -675,7 +675,7 @@ z8 |
 X: 5
 T: awolnation-sail (3:44) - Clarinet
 %%part-name Clarinet
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -808,7 +808,7 @@ z8 |]
 X: 8
 T: awolnation-sail (3:44) - Horn
 %%part-name Horn
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
@@ -941,7 +941,7 @@ z8 |]
 X: 7
 T: awolnation-sail (3:44) - Drums
 %%part-name Drums
-Z: Satior 
+Z: ~Satior 
 M: 4/4
 Q: 120
 K: C maj
