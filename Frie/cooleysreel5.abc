@@ -6,23 +6,9 @@
 %  
 %  Artist: 
 %  Mood: unknown
-%  
-%  Playing multipart files:
-%    /play <filename> <part> sync
-%  example:
-%  pippin does:  /play weargreen 2 sync
-%  samwise does: /play weargreen 3 sync
-%  pippin does:  /playstart
-%  
-%  If you want to play a solo piece, skip the sync and it will start without /playstart.
-%  
-%  
-%  Recommended solo or ensemble configurations (instrument/file):
-%  quintet: flute/cooleys_reel:1 - lute/cooleys_reel:2 - theorbo/cooleys_reel:3 - bagpipe/cooleys_reel:4 - horn/cooleys_reel:5
-%  
 
 X:1
-T: flute: 1/5  [flute] Jul 8 (2:04)
+T: flute: 1/5  [Cooley's Reel] Jan 28 (2:04)
 Z: Transcribed by Firefern's ABC sequencer
 %  Transcribed for Lord of the Rings Online playing
 %  Transpose: 0 (0 octaves)
