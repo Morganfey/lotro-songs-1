@@ -157,8 +157,7 @@ z8 |]
 
 
 X: 2
-T: Phantom of the Opera 2/8 [Flute] (4:10)
-%%part-name Flute
+T: Phantom of the Opera 2/8 [Flute]
 M: 4/4
 Q: 121
 K: C maj
@@ -308,8 +307,7 @@ z/4 +mp+ [E31/4-A31/4-c31/4-e31/4-] |
 
 
 X: 3
-T: Phantom of the Opera 3/8 [Horn] (4:10)
-%%part-name Horn
+T: Phantom of the Opera 3/8 [Horn]
 M: 4/4
 Q: 121
 K: C maj
@@ -486,8 +484,7 @@ z8 |]
 
 
 X: 4
-T: Phantom of the Opera 4/8 [Harp] (4:10)
-%%part-name Harp
+T: Phantom of the Opera 4/8 [Harp]
 M: 4/4
 Q: 121
 K: C maj
@@ -635,8 +632,7 @@ e6 z2 |]
 
 
 X: 5
-T: Phantom of the Opera 5/8 [Lute] (4:10)
-%%part-name Lute
+T: Phantom of the Opera 5/8 [Lute]
 M: 4/4
 Q: 121
 K: C maj
@@ -784,8 +780,7 @@ z/4 [e31/4-a31/4-c'31/4-] |
 
 
 X: 6
-T: Phantom of the Opera 6/8 [Theorbo] (4:10)
-%%part-name Theorbo
+T: Phantom of the Opera 6/8 [Theorbo]
 M: 4/4
 Q: 121
 K: C maj
@@ -933,8 +928,7 @@ A6 z2 |]
 
 
 X: 7
-T: Phantom of the Opera 7/8 [Drums] (4:10)
-%%part-name Drums
+T: Phantom of the Opera 7/8 [Drums]
 M: 4/4
 Q: 121
 K: C maj
@@ -1110,8 +1104,7 @@ z8 |]
 
 
 X: 8
-T: Phantom of the Opera 8/8 [Cowbell] (4:10)
-%%part-name Cowbell
+T: Phantom of the Opera 8/8 [Cowbell]
 M: 4/4
 Q: 121
 K: C maj

@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Law and Order [Clarinet] 1/4 (1:17)
-%%part-name Clarinet
+T: Law and Order 1/4 [Clarinet] (1:17)
 M: 4/4
 Q: 120
 K: C maj
@@ -61,9 +60,7 @@ z8 |]
 
 
 X: 2
-T: Law and Order [Harp] 2/4 (1:17)
-%%part-name Harp
-M: 4/4
+T: Law and Order 2/4 [Harp]
 Q: 120
 K: C maj
 
@@ -115,8 +112,7 @@ z8 |]
 
 
 X: 5
-T: Law and Order [Lute] 5/4 (1:17)
-%%part-name Lute
+T: Law and Order 5/4 [Lute]
 M: 4/4
 Q: 120
 K: C maj
@@ -167,8 +163,7 @@ z8 |]
 
 
 X: 3
-T: Law and Order [Theorbo] 3/4 (1:17)
-%%part-name Theorbo
+T: Law and Order 3/4 [Theorbo]
 M: 4/4
 Q: 120
 K: C maj
@@ -219,8 +214,7 @@ g3/2 z13/2 |]
 
 
 X: 4
-T: Law and Order [Drums] 4/4 (1:17)
-%%part-name Drums
+T: Law and Order 4/4 [Drums]
 M: 4/4
 Q: 120
 K: C maj

@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Super Trouper 1/8 [Flute] (4:12)
-%%part-name Flute 1
+T: Super Trouper 1/8 [Flute 1] (4:12)
 C: Abba
 M: 4/4
 Q: 120
@@ -164,8 +163,7 @@ z5 +f+ G,3/4 z/4 C +mf+ E/ z/ |
 
 
 X: 2
-T: Super Trouper 2/8 [Flute] (4:12)
-%%part-name Flute 2
+T: Super Trouper 2/8 [Flute 2]
 C: Abba
 M: 4/4
 Q: 120
@@ -312,8 +310,7 @@ d/ z13/2 d/4 z3/4 |
 
 
 X: 3
-T: Super Trouper 3/8 [Harp] (4:12)
-%%part-name Harp
+T: Super Trouper 3/8 [Harp]
 C: Abba
 M: 4/4
 Q: 120
@@ -460,8 +457,7 @@ d3/4 z/4 c/ z/ +f+ d/ z/ e/ z/ d +mp+ c/ z/ +f+ c z |]
 
 
 X: 4
-T: Super Trouper 4/8 [Lute] (4:12)
-%%part-name Lute 1
+T: Super Trouper 4/8 [Lute 1]
 C: Abba
 M: 4/4
 Q: 120
@@ -613,8 +609,7 @@ z/4 |]
 
 
 X: 5
-T: Super Trouper 5/8 [Lute] (4:12)
-%%part-name Lute 2
+T: Super Trouper 5/8 [Lute 2]
 C: Abba
 M: 4/4
 Q: 120
@@ -813,8 +808,7 @@ G/4 A/4 G/4 A/4 G/4 A/4 G/4 A/4 G/4 A/4 G/4 A/4 G/4 A/4 G/4 +p+ A/4 G/4 A/4 G/4 
 
 
 X: 9
-T: Super Trouper 9/8 [Lute] (4:12)
-%%part-name Lute 3 (Flute 1)
+T: Super Trouper 9/8 [Lute]
 C: Abba
 M: 4/4
 Q: 120
@@ -963,8 +957,7 @@ z5 +f+ G3/4 z/4 c +mf+ e/ z/ |
 
 
 X: 10
-T: Super Trouper 10/8 [Lute] (4:12)
-%%part-name Lute 4 (Flute 2)
+T: Super Trouper 10/8 [Lute]
 C: Abba
 M: 4/4
 Q: 120
@@ -1111,8 +1104,7 @@ d/ z13/2 d/4 z3/4 |
 
 
 X: 6
-T: Super Trouper 6/8 [Theorbo] (4:12)
-%%part-name Theorbo 1
+T: Super Trouper 6/8 [Theorbo 1]
 C: Abba
 M: 4/4
 Q: 120
@@ -1261,8 +1253,7 @@ z8 |]
 
 
 X: 7
-T: Super Trouper 7/8 [Theorbo] (4:12)
-%%part-name Theorbo 2
+T: Super Trouper 7/8 [Theorbo 2]
 C: Abba
 M: 4/4
 Q: 120
@@ -1411,8 +1402,7 @@ z/4 |]
 
 
 X: 8
-T: Super Trouper 8/8 [Drums] (4:12)
-%%part-name Drums
+T: Super Trouper 8/8 [Drums]
 C: Abba
 M: 4/4
 Q: 120

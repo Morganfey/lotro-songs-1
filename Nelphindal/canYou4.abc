@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Can you feel the love [Clarinet] 1/4 (3:59)
-%%part-name Clarinet
+T: Can you feel the love 1/4 [Clarinet] (3:59)
 M: 4/4
 Q: 60
 K: C maj
@@ -84,9 +83,7 @@ z8 |]
 
 
 X: 2
-T: Can you feel the love [Flute] 2/4 (3:59)
-%%part-name Flute
-M: 4/4
+T: Can you feel the love 2/4 [Flute]
 Q: 60
 K: C maj
 
@@ -163,9 +160,7 @@ z8 |]
 
 
 X: 3
-T: Can you feel the love [Harp 1&2] 3/4 (3:59)
-%%part-name Harp 1&2
-M: 4/4
+T: Can you feel the love 3/4 [Harp 1&2]
 Q: 60
 K: C maj
 
@@ -239,9 +234,7 @@ K: C maj
 
 
 X: 5
-T: Can you feel the love [Harp 1] 5/4 (3:59)
-%%part-name Harp 1
-M: 4/4
+T: Can you feel the love 5/4 [Harp 1]
 Q: 60
 K: C maj
 
@@ -315,9 +308,7 @@ d15/4 z17/4 |]
 
 
 X: 6
-T: Can you feel the love [Harp 2] 6/4 (3:59)
-%%part-name Harp 2
-M: 4/4
+T: Can you feel the love 6/4 [Harp 2]
 Q: 60
 K: C maj
 
@@ -391,9 +382,7 @@ G,2 G2 F,2 [F-^A] F |
 
 
 X: 4
-T: Can you feel the love [Drums] 4/4 (3:59)
-%%part-name Drums
-M: 4/4
+T: Can you feel the love 4/4 [Drums]
 Q: 60
 K: C maj
 

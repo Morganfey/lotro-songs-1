@@ -8,10 +8,7 @@
 
 
 X: 1
-T: Dallas [Harp] 1/4 (2:00)
-%%part-name Harp
-M: 4/4
-Q: 120
+T: Dallas 1/4 [Harp 1] (2:00)
 K: C maj
 
 +mp+ z8 |
@@ -87,8 +84,7 @@ E/ [B/4e/4^g/4] z/4 [B/4e/4g/4] z/4 [B/4e/4g/4] z/4 +ff+ [B/4e/4g/4] z/4 +fff+ [
 
 
 X: 2
-T: Dallas [Harp 2] 2/4 (2:00)
-%%part-name Harp 2
+T: Dallas 2/4 [Harp 2]
 M: 4/4
 Q: 120
 K: C maj
@@ -175,8 +171,7 @@ E/ [E,/4^G,/4B,/4] z/4 [E,/4G,/4B,/4] z/4 [E,/4G,/4B,/4] z/4 +ff+ [E,/4G,/4B,/4^
 
 
 X: 3
-T: Dallas [Lute] 3/4 (2:00)
-%%part-name Lute
+T: Dallas 3/4 [Lute]
 M: 4/4
 Q: 120
 K: C maj
@@ -251,8 +246,7 @@ z/ B/ ^G/ B/ +ff+ [G/B/e/] [G/B/e/] [G/B/e/] [G/B/e/] [G/B/e/] z7/2 |]
 
 
 X: 4
-T: Dallas [Drums] 4/4 (2:00)
-%%part-name Drums
+T: Dallas 4/4 [Drums]
 M: 4/4
 Q: 120
 K: C maj

@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Concerning Hobbits [Harp 1] 1/4 (2:41)
-%%part-name Harp 1
+T: Concerning Hobbits 1/4 [Harp 1] (2:41)
 M: 4/4
 Q: 105
 K: C maj
@@ -97,9 +96,7 @@ z2 [^f9/4a9/4] z/ [f13/4-a13/4-] |
 
 
 X: 2
-T: Concerning Hobbits [Harp 2] 2/4 (2:41)
-%%part-name Harp 2
-M: 4/4
+T: Concerning Hobbits 2/4 [Harp 2]
 Q: 105
 K: C maj
 
@@ -186,9 +183,7 @@ e3/4 d5/4 ^F9/4 z/ F13/4- |
 
 
 X: 3
-T: Concerning Hobbits [Lute] 3/4 (2:41)
-%%part-name Lute
-M: 4/4
+T: Concerning Hobbits 3/4 [Lute]
 Q: 105
 K: C maj
 
@@ -275,9 +270,7 @@ e3/4 d5/4 ^F9/4 z/ F13/4- |
 
 
 X: 4
-T: Concerning Hobbits [Theorbo] 4/4 (2:41)
-%%part-name Theorbo
-M: 4/4
+T: Concerning Hobbits 4/4 [Theorbo]
 Q: 105
 K: C maj
 

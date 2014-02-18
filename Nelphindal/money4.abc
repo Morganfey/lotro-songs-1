@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Money Money [Clarinet] 1/7 (3:07)
-M: 4/4
+T: Money Money 1/7 [Clarinet] (3:07)
 Q: 120
 K: C maj
 
@@ -119,8 +118,7 @@ z3/4 +f+ [^A/^a/] z27/4 |]
 
 
 X: 2
-T: Money Money [Flute] 2/7
-M: 4/4
+T: Money Money 2/7 [Flute]
 Q: 120
 K: C maj
 
@@ -230,8 +228,7 @@ z3/4 +f+ [^C/4F/4] z3/4 [CF] z [^A,17/4-C17/4-] |
 
 
 X: 8
-T: Money Money [Flute] 1,2/7
-M: 4/4
+T: Money Money 1,2/7 [Flute]
 Q: 120
 K: C maj
 
@@ -341,8 +338,7 @@ E/4 z/ +mp+ E/ z/ +p+ E/ z/ +mp+ ^F,/ +p+ ^A,/ +mp+ ^C/ +p+ E/ +mf+ ^D/ z3/2 +f+
 
 
 X: 3
-T: Money Money [Harp] 3/7
-M: 4/4
+T: Money Money 3/7 [Harp 1]
 Q: 120
 K: C maj
 
@@ -452,8 +448,7 @@ z8 |]
 
 
 X: 4
-T: Money Money [Harp 2] 4/7 (3:07)
-M: 4/4
+T: Money Money 4/7 [Harp 2]
 Q: 120
 K: C maj
 
@@ -652,8 +647,7 @@ z3/4 [^A,3/4-^A3/4-^c3/4f3/4^a3/4] [z13/2A,/4A/4] |]
 
 
 X: 5
-T: Money Money [Lute 1] 5/7
-M: 4/4
+T: Money Money 5/7 [Lute 1]
 Q: 120
 K: C maj
 
@@ -763,8 +757,7 @@ z3/4 +f+ ^A3/4 z13/2 |]
 
 
 X: 6
-T: Money Money [Lute 2] 6/7
-M: 4/4
+T: Money Money 6/7 [Lute 2]
 Q: 120
 K: C maj
 
@@ -874,8 +867,7 @@ z8 |]
 
 
 X: 9
-T: Money Money [Lute 1&2] 5,6/7
-M: 4/4
+T: Money Money 5,6/7 [Lute 1&2]
 Q: 120
 K: C maj
 
@@ -986,8 +978,7 @@ z3/4 +f+ ^A3/4 z13/2 |]
 
 
 X: 10
-T: Money Money [Harp 1&2] 3,4/7
-M: 4/4
+T: Money Money 3,4/7 [Harp 1&2]
 Q: 120
 K: C maj
 
@@ -1097,8 +1088,7 @@ z8 |]
 
 
 X: 7
-T: Money Money [Drums] 7/7
-M: 4/4
+T: Money Money [7/7 Drums]
 Q: 120
 K: C maj
 

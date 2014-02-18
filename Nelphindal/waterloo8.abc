@@ -130,8 +130,7 @@ z8 |]
 
 
 X: 2
-T: Waterloo 2/8 [Flute] (2:44)
-%%part-name Flute
+T: Waterloo 2/8 [Flute]
 C: Abba
 M: 4/4
 Q: 149
@@ -252,8 +251,7 @@ z8 |]
 
 
 X: 3
-T: Waterloo 3/8 [Horn] (2:44)
-%%part-name Horn
+T: Waterloo 3/8 [Horn]
 C: Abba
 M: 4/4
 Q: 149
@@ -374,8 +372,7 @@ z8 |]
 
 
 X: 4
-T: Waterloo 4/8 [Harp] (2:44)
-%%part-name Harp
+T: Waterloo 4/8 [Harp]
 C: Abba
 M: 4/4
 Q: 149
@@ -507,8 +504,7 @@ z/ +mf+ [D/^F/] z3/2 [D/F/] z2 [D2F2] z |]
 
 
 X: 5
-T: Waterloo 5/8 [Lute] (2:44)
-%%part-name Lute
+T: Waterloo 5/8 [Lute]
 C: Abba
 M: 4/4
 Q: 149
@@ -629,8 +625,7 @@ z8 |]
 
 
 X: 6
-T: Waterloo 6/8 [Theorbo] (2:44)
-%%part-name Theorbo
+T: Waterloo 6/8 [Theorbo]
 C: Abba
 M: 4/4
 Q: 149
@@ -753,8 +748,7 @@ z/ a/ z3/2 +mf+ a/ z2 a2 z |]
 
 
 X: 7
-T: Waterloo 7/8 [Theorbo] (2:44)
-%%part-name Theorbo 2
+T: Waterloo 7/8 [Theorbo]
 C: Abba
 M: 4/4
 Q: 149
@@ -875,8 +869,7 @@ z8 |]
 
 
 X: 8
-T: Waterloo 8/8 [Drums] (2:44)
-%%part-name Drums
+T: Waterloo 8/8 [Drums]
 C: Abba
 M: 4/4
 Q: 149

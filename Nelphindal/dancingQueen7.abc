@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Dancing Queen 1/7 [Clarinet] (3:55)
-%%part-name Clarinet
+T: Dancing Queen 1/7 [Clarinet]
 C: Abba
 M: 4/4
 Q: 100
@@ -126,8 +125,7 @@ d11/4 z/4 +mp+ ^c/ +mf+ B/4 z3/4 +mp+ A/4 z/4 +mf+ B3/2 c3/4 z3/4 |
 
 
 X: 2
-T: Dancing Queen 2/7 [Flute] (3:55)
-%%part-name Flute
+T: Dancing Queen 2/7 [Flute]
 C: Abba
 M: 4/4
 Q: 100
@@ -262,8 +260,7 @@ D11/4 z/4 +mp+ ^C/ +mf+ B,/4 z3/4 +mp+ A,/4 z/4 +mf+ B,3/2 C3/4 z3/4 |
 
 
 X: 3
-T: Dancing Queen 3/7 [Harp] (3:55)
-%%part-name Harp
+T: Dancing Queen 3/7 [Harp]
 C: Abba
 M: 4/4
 Q: 100
@@ -392,8 +389,7 @@ z/4 [A5/2^c5/2e5/2] +p+ [A/4-c/4-e/4-a/4] [A/4c/4e/4] +mf+ [A3/2c3/2e3/2a3/2] +m
 
 
 X: 4
-T: Dancing Queen 4/7 [Lute] (3:55)
-%%part-name Lute
+T: Dancing Queen 4/7 [Lute]
 C: Abba
 M: 4/4
 Q: 100
@@ -577,8 +573,7 @@ z/4 [A,/-^C/-E/-] [A,/-C/-E/-A/^c/e/] [A,-C-E-] [A,9/4C9/4-E9/4-A9/4-c9/4-e9/4-]
 
 
 X: 5
-T: Dancing Queen 5/7 [Lute] (3:55)
-%%part-name Lute 2
+T: Dancing Queen 5/7 [Lute]
 C: Abba
 M: 4/4
 Q: 100
@@ -775,8 +770,7 @@ z/4 [A,/^C/-E/-] [^C,/E,/A,/-C/-E/-] [A,C-E-] [C,/-E,/-A,/C/E/] +p+ [C,/4-E,/4-A
 
 
 X: 6
-T: Dancing Queen 6/7 [Theorbo] (3:55)
-%%part-name Theorbo
+T: Dancing Queen 6/7 [Theorbo]
 C: Abba
 M: 4/4
 Q: 100
@@ -976,8 +970,7 @@ A,/4- +pp+ [A,/4-D/4^F/4] A,/4- [A,/4D/4F/4] z/4 [D/4F/4] +mf+ A,/4 [E,/4-D/4F/4
 
 
 X: 7
-T: Dancing Queen 7/7 [Drums] (3:55)
-%%part-name Drums
+T: Dancing Queen 7/7 [Drums]
 C: Abba
 M: 4/4
 Q: 100

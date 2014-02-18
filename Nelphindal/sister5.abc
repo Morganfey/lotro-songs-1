@@ -8,8 +8,7 @@
 
 
 X: 1
-T: Sister Act [Flute] 1/5 (2:10)
-%%part-name Flute
+T: Sister Act 1/5 [Flute] (2:10)
 M: 4/4
 Q: 135
 K: C maj
@@ -98,8 +97,7 @@ F z7 |]
 
 
 X: 2
-T: Sister Act [Horn] 2/5 (2:10)
-%%part-name Horn
+T: Sister Act 2/5 [Horn]
 M: 4/4
 Q: 135
 K: C maj
@@ -188,8 +186,7 @@ F/ z15/2 |]
 
 
 X: 3
-T: Sister Act [Harp] 3/5 (2:10)
-%%part-name Harp
+T: Sister Act 3/5 [Harp]
 M: 4/4
 Q: 135
 K: C maj
@@ -278,8 +275,7 @@ z2 [^G/A/c/-] c5/2 z [=G/^A/] z3/2 |
 
 
 X: 4
-T: Sister Act [Lute] 4/5 (2:10)
-%%part-name Lute
+T: Sister Act 4/5 [Lute]
 M: 4/4
 Q: 135
 K: C maj
@@ -420,8 +416,7 @@ z2 [^G,/A,/C/-] C5/2 z [=G,/^A,/] z3/2 |
 
 
 X: 5
-T: Sister Act [Drums] 5/5 (2:10)
-%%part-name Drums
+T: Sister Act 5/5 [Drums]
 M: 4/4
 Q: 135
 K: C maj
