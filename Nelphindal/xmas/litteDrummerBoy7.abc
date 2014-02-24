@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Little Drummer Boy 1/7 [Clarinet] (2:49)
 %%part-name Clarinet
 M: 4/4
@@ -94,8 +94,8 @@ z8 |
 z8 |]
 
 
-X: 2
-T: Little Drummer Boy 2/7 [Flute] (2:49)
+X:2
+T: Little Drummer Boy 2/7 [Flute] Dec 6
 %%part-name Flute
 M: 4/4
 Q: 100
@@ -181,8 +181,8 @@ z8 |
 z8 |]
 
 
-X: 3
-T: Little Drummer Boy 3/7 [Lute] (2:49)
+X:3
+T: Little Drummer Boy 3/7 [Lute]
 %%part-name Lute or Harp
 M: 4/4
 Q: 100
@@ -268,8 +268,8 @@ z8 |
 z8 |]
 
 
-X: 4
-T: Little Drummer Boy 4/7 [Lute] (2:49)
+X:4
+T: Little Drummer Boy 4/7 [Lute]
 %%part-name Lute or Harp 2
 M: 4/4
 Q: 100
@@ -355,8 +355,8 @@ z8 |
 z8 |]
 
 
-X: 5
-T: Little Drummer Boy 5/7 [Theorbo] (2:49)
+X:5
+T: Little Drummer Boy 5/7 [Theorbo]
 %%part-name Theorbo
 M: 4/4
 Q: 100
@@ -442,8 +442,8 @@ z8 |
 z8 |]
 
 
-X: 6
-T: Little Drummer Boy 6/7 [Drums] (2:49)
+X:6
+T: Little Drummer Boy 6/7 [Drums]
 %%part-name Drums
 M: 4/4
 Q: 100
@@ -529,8 +529,8 @@ K: C maj
 ^a/4 z31/4 |]
 
 
-X: 7
-T: Little Drummer Boy 7/7 [Cowbell] (2:49)
+X:7
+T: Little Drummer Boy 7/7 [Cowbell]
 %%part-name Cowbell
 M: 4/4
 Q: 100

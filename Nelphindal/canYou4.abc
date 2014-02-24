@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Can you feel the love 1/4 [Clarinet] (3:59)
 M: 4/4
 Q: 60
@@ -82,8 +82,8 @@ F/8 ^d15/8 =d2 c15/8 ^A/ z/4 A11/8- |
 z8 |]
 
 
-X: 2
-T: Can you feel the love 2/4 [Flute]
+X:2
+T: Can you feel the love 2/4 [Flute] Feb 18
 Q: 60
 K: C maj
 
@@ -159,7 +159,7 @@ F,/8 ^D15/8 =D2 C15/8 ^A,/ z/4 A,11/8- |
 z8 |]
 
 
-X: 3
+X:3
 T: Can you feel the love 3/4 [Harp 1&2]
 Q: 60
 K: C maj
@@ -233,7 +233,7 @@ K: C maj
 [^A,15/4F15/4^A15/4d15/4] z17/4 |]
 
 
-X: 5
+X:5
 T: Can you feel the love 5/4 [Harp 1]
 Q: 60
 K: C maj
@@ -307,7 +307,7 @@ d2 d2 ^d2 d2 |
 d15/4 z17/4 |]
 
 
-X: 6
+X:6
 T: Can you feel the love 6/4 [Harp 2]
 Q: 60
 K: C maj
@@ -381,7 +381,7 @@ G,2 G2 F,2 [F-^A] F |
 [^A,15/4F15/4^A15/4] z17/4 |]
 
 
-X: 4
+X:4
 T: Can you feel the love 4/4 [Drums]
 Q: 60
 K: C maj

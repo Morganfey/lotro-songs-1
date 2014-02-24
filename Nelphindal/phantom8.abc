@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Phantom of the Opera 1/8 [Clarinet] (4:10)
 %%part-name Clarinet
 M: 4/4
@@ -156,8 +156,8 @@ z8 |
 z8 |]
 
 
-X: 2
-T: Phantom of the Opera 2/8 [Flute]
+X:2
+T: Phantom of the Opera 2/8 [Flute] Feb 18
 M: 4/4
 Q: 121
 K: C maj
@@ -306,7 +306,7 @@ z/4 +mp+ [E31/4-A31/4-c31/4-e31/4-] |
 [E6A6c6e6] z2 |]
 
 
-X: 3
+X:3
 T: Phantom of the Opera 3/8 [Horn]
 M: 4/4
 Q: 121
@@ -483,7 +483,7 @@ z8 |
 z8 |]
 
 
-X: 4
+X:4
 T: Phantom of the Opera 4/8 [Harp]
 M: 4/4
 Q: 121
@@ -631,7 +631,7 @@ z/4 e31/4- |
 e6 z2 |]
 
 
-X: 5
+X:5
 T: Phantom of the Opera 5/8 [Lute]
 M: 4/4
 Q: 121
@@ -779,7 +779,7 @@ z/4 [e31/4-a31/4-c'31/4-] |
 [e6a6c'6] z2 |]
 
 
-X: 6
+X:6
 T: Phantom of the Opera 6/8 [Theorbo]
 M: 4/4
 Q: 121
@@ -927,7 +927,7 @@ z/4 A31/4- |
 A6 z2 |]
 
 
-X: 7
+X:7
 T: Phantom of the Opera 7/8 [Drums]
 M: 4/4
 Q: 121
@@ -1103,7 +1103,7 @@ z8 |
 z8 |]
 
 
-X: 8
+X:8
 T: Phantom of the Opera 8/8 [Cowbell]
 M: 4/4
 Q: 121

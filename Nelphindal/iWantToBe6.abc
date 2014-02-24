@@ -8,7 +8,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: I want to be like you 1/6 [Clarinet] (3:47)
 Q: 96
 K: C maj
@@ -115,8 +115,8 @@ z/4 ^a3/4 z/4 a3/4 z/4 a3/4 z/4 a19/4- |
 ^d/ z/4 +f+ d5/4 z/ d5/4 z/4 +mf+ d5/4 z/ +mp+ d3/2 z3/4 |]
 
 
-X: 2
-T: I want to be like you 2/6 [Flute]
+X:2
+T: I want to be like you 2/6 [Flute] Feb 18
 Q: 96
 K: C maj
 
@@ -223,7 +223,7 @@ z/4 +fff+ [^D,/4^D/4G/4^A/4] z15/2 |
 z8 |]
 
 
-X: 5
+X:5
 T: I want to be like you 5/6 [Horn]
 Q: 96
 K: C maj
@@ -334,7 +334,7 @@ z/4 +ff+ [^D/4^A/4] z15/2 |
 z8 |]
 
 
-X: 3
+X:3
 T: I want to be like you 3/6 [Harp]
 Q: 96
 K: C maj
@@ -453,7 +453,7 @@ z/4 +ff+ [^D,/4-G/4-^d/4^a/4] [z/4D,/4G/4] z29/4 |
 z8 |]
 
 
-X: 8
+X:8
 T: I want to be like you 8/6 [Lute]
 M: 4/4
 Q: 96
@@ -580,7 +580,7 @@ z/4 [^d/^a/] z29/4 |
 z8 |]
 
 
-X: 7
+X:7
 T: I want to be like you 7/6 [Theorbo]
 Q: 96
 K: C maj
@@ -687,7 +687,7 @@ z/4 [^D,/4-^D/4] [z/D,/] z7 |
 z8 |]
 
 
-X: 6
+X:6
 T: I want to be like you 6/6 [Drums]
 Q: 96
 K: C maj
@@ -882,7 +882,7 @@ z/4 [^C/4c/4] +mp+ [z/4B/4] z29/4 |
 z8 |]
 
 
-X: 4
+X:4
 T: I want to be like you 4/6 [Bagpipe]
 Q: 96
 K: C maj

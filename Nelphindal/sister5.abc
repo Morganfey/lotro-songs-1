@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Sister Act 1/5 [Flute] (2:10)
 M: 4/4
 Q: 135
@@ -96,8 +96,8 @@ z A/ [^G/A/-] A/ G/ A3 =G/ +f+ F/ +ff+ E/ z/ |
 F z7 |]
 
 
-X: 2
-T: Sister Act 2/5 [Horn]
+X:2
+T: Sister Act 2/5 [Horn] Feb 18
 M: 4/4
 Q: 135
 K: C maj
@@ -185,7 +185,7 @@ D3/2 z/ A- +mf+ [A/f/-] f/- +f+ [Df-] f/- +mf+ [D/f/] +f+ [D/c/-] +mf+ [D/c/-] +
 F/ z15/2 |]
 
 
-X: 3
+X:3
 T: Sister Act 3/5 [Harp]
 M: 4/4
 Q: 135
@@ -274,7 +274,7 @@ z2 [^G/A/c/-] c5/2 z [=G/^A/] z3/2 |
 [Acf] z7 |]
 
 
-X: 4
+X:4
 T: Sister Act 4/5 [Lute]
 M: 4/4
 Q: 135
@@ -415,7 +415,7 @@ z2 [^G,/A,/C/-] C5/2 z [=G,/^A,/] z3/2 |
 [FAc-] c/ z13/2 |]
 
 
-X: 5
+X:5
 T: Sister Act 5/5 [Drums]
 M: 4/4
 Q: 135

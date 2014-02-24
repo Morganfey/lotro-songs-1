@@ -7,8 +7,8 @@
 %%abc-version 2.0
 
 
-X: 1
-T: Kommet ihr Hirten [Harp, Flute, Clarinet] (1:22)
+X:1
+T: Kommet ihr Hirten 1/2 [Harp, Flute, Clarinet] (1:22)
 %%part-name Harp, Flute, Clarinet
 M: 3/4
 Q: 100
@@ -66,8 +66,8 @@ c2 A c G A |
 F4 z2 |]
 
 
-X: 2
-T: Kommet ihr Hirten [Theorbo] (1:22)
+X:2
+T: Kommet ihr Hirten 2/2 [Theorbo] Dec 26
 %%part-name Theorbo
 M: 3/4
 Q: 100

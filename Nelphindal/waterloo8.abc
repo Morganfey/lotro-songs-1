@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Waterloo 1/8 [Clarinet] (2:44)
 %%part-name Clarinet
 C: Abba
@@ -129,8 +129,8 @@ z8 |
 z8 |]
 
 
-X: 2
-T: Waterloo 2/8 [Flute]
+X:2
+T: Waterloo 2/8 [Flute] Feb 18
 C: Abba
 M: 4/4
 Q: 149
@@ -250,7 +250,7 @@ z8 |
 z8 |]
 
 
-X: 3
+X:3
 T: Waterloo 3/8 [Horn]
 C: Abba
 M: 4/4
@@ -371,7 +371,7 @@ z8 |
 z8 |]
 
 
-X: 4
+X:4
 T: Waterloo 4/8 [Harp]
 C: Abba
 M: 4/4
@@ -503,7 +503,7 @@ z/ [D/^F/] z3/2 +f+ [D/F/] z2 [D5/2F5/2] z/ |
 z/ +mf+ [D/^F/] z3/2 [D/F/] z2 [D2F2] z |]
 
 
-X: 5
+X:5
 T: Waterloo 5/8 [Lute]
 C: Abba
 M: 4/4
@@ -624,7 +624,7 @@ z8 |
 z8 |]
 
 
-X: 6
+X:6
 T: Waterloo 6/8 [Theorbo]
 C: Abba
 M: 4/4
@@ -747,7 +747,7 @@ z/ +mp+ a/ z3/2 +mf+ a/ z2 +mp+ a5/2 z/ |
 z/ a/ z3/2 +mf+ a/ z2 a2 z |]
 
 
-X: 7
+X:7
 T: Waterloo 7/8 [Theorbo]
 C: Abba
 M: 4/4
@@ -868,7 +868,7 @@ z8 |
 z8 |]
 
 
-X: 8
+X:8
 T: Waterloo 8/8 [Drums]
 C: Abba
 M: 4/4

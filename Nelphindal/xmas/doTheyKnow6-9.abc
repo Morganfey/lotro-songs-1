@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Do they know 1/9 [Clarinet] (3:33)
 %%part-name Clarinet
 M: 4/4
@@ -134,8 +134,8 @@ E,/4 [F,4C4A4] z/4 [E,7/2-C7/2-G7/2-] |
 z8 |]
 
 
-X: 3
-T: Do they know 3/9 [Horn] (3:33)
+X:3
+T: Do they know 3/9 [Horn]
 %%part-name Horn
 M: 4/4
 Q: 120
@@ -261,8 +261,8 @@ z8 |
 z8 |]
 
 
-X: 4
-T: Do they know 4/9 [Harp] (3:33)
+X:4
+T: Do they know 4/9 [Harp]
 %%part-name Harp
 M: 4/4
 Q: 120
@@ -389,8 +389,8 @@ z3/4 G/ z7/4 C,5 |
 z8 |]
 
 
-X: 9
-T: Do they know 9/9 [Harp 2] (3:33)
+X:2
+T: Do they know 2/9 [Harp 2] Dec 26
 %%part-name Harp 2
 M: 4/4
 Q: 120
@@ -518,8 +518,8 @@ z3/4 G,/ z7/4 C,5 |
 z8 |]
 
 
-X: 5
-T: Do they know 5/9 [Lute] (3:33)
+X:5
+T: Do they know 5/9 [Lute]
 %%part-name Lute
 M: 4/4
 Q: 120
@@ -645,8 +645,8 @@ z8 |
 z8 |]
 
 
-X: 8
-T: Do they know 8/9 [Lute 2] (3:33)
+X:8
+T: Do they know 8/9 [Lute 2]
 %%part-name Lute 2
 M: 4/4
 Q: 120
@@ -772,8 +772,8 @@ c7 z |
 z8 |]
 
 
-X: 6
-T: Do they know 6/9 [Theorbo] (3:33)
+X:6
+T: Do they know 6/9 [Theorbo]
 %%part-name Theorbo
 M: 4/4
 Q: 120
@@ -899,8 +899,8 @@ C8- |
 C z7 |]
 
 
-X: 7
-T: Do they know 7/9 [Drums] (3:33)
+X:7
+T: Do they know 7/9 [Drums]
 %%part-name Drums
 M: 4/4
 Q: 120

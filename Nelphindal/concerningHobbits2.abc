@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Concerning Hobbits 1/4 [Harp 1] (2:41)
 M: 4/4
 Q: 105
@@ -95,8 +95,8 @@ z2 [^f9/4a9/4] z/ [f13/4-a13/4-] |
 [^f21/4a21/4] z11/4 |]
 
 
-X: 2
-T: Concerning Hobbits 2/4 [Harp 2]
+X:2
+T: Concerning Hobbits 2/4 [Harp 2] Feb 18
 Q: 105
 K: C maj
 
@@ -182,7 +182,7 @@ e3/4 d5/4 ^F9/4 z/ F13/4- |
 ^F21/4 z11/4 |]
 
 
-X: 3
+X:3
 T: Concerning Hobbits 3/4 [Lute]
 Q: 105
 K: C maj
@@ -269,7 +269,7 @@ e3/4 d5/4 ^F9/4 z/ F13/4- |
 ^F21/4 z11/4 |]
 
 
-X: 4
+X:4
 T: Concerning Hobbits 4/4 [Theorbo]
 Q: 105
 K: C maj

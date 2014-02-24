@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: 12 Days of christmas 1/4 [Clarinet, Horn, Harp] (3:42)
 %%part-name Clarinet, Horn, Harp
 M: 4/4
@@ -138,8 +138,8 @@ A, ^A, C2 [F,D] A, =A, F, |
 G,2 F,6 |]
 
 
-X: 2
-T: 12 Days of christmas 2/4 [Flute] (3:42)
+X:2
+T: 12 Days of christmas 2/4 [Flute] Dec 20
 %%part-name Flute
 M: 4/4
 Q: 120
@@ -269,8 +269,8 @@ A, ^A, C2 [F,D] A, =A, F, |
 G,2 F,6 |]
 
 
-X: 6
-T: 12 Days of christmas 6/4 [Theorbo] (3:42)
+X:3
+T: 12 Days of christmas 3/4 [Theorbo]
 %%part-name Theorbo
 M: 4/4
 Q: 120
@@ -400,8 +400,8 @@ F G [a2c'2] ^a2 c'2 |
 [c2^a2] [f2=a2-] [c2a2-] [F2a2] |]
 
 
-X: 7
-T: 12 Days of christmas 7/4 [Drums] (3:42)
+X:4
+T: 12 Days of christmas 4/4 [Drums]
 %%part-name Drums
 M: 4/4
 Q: 120

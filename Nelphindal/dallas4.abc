@@ -7,7 +7,7 @@
 %%abc-version 2.0
 
 
-X: 1
+X:1
 T: Dallas 1/4 [Harp 1] (2:00)
 K: C maj
 
@@ -83,8 +83,8 @@ G,/ C/ D/ A/ +mf+ G/ c/ d/ a/ g/ +f+ c'/ d/ a/ g/ c'/ +ff+ d/ a/ |
 E/ [B/4e/4^g/4] z/4 [B/4e/4g/4] z/4 [B/4e/4g/4] z/4 +ff+ [B/4e/4g/4] z/4 +fff+ [B/4e/4g/4] z/4 [B/4e/4g/4] z/4 [B/4e/4g/4] z/4 [B/4e/4g/4] z15/4 |]
 
 
-X: 2
-T: Dallas 2/4 [Harp 2]
+X:2
+T: Dallas 2/4 [Harp 2] Feb 18
 M: 4/4
 Q: 120
 K: C maj
@@ -170,7 +170,7 @@ E/ [E,/4^G,/4B,/4] z/4 [E,/4G,/4B,/4] z/4 [E,/4G,/4B,/4] z/4 +ff+ [E,/4G,/4B,/4^
 [E,/4G,/4B,/4G/4-B/4-e/4-] [G/4B/4e/4] [E,/4G,/4B,/4G/4-B/4-e/4-] [G/4B/4e/4] [E,/4G,/4B,/4G/4-B/4-e/4-] [G/4B/4e/4] z7/2 |]
 
 
-X: 3
+X:3
 T: Dallas 3/4 [Lute]
 M: 4/4
 Q: 120
@@ -245,7 +245,7 @@ B,2 E2 ^G A ^F2- |
 z/ B/ ^G/ B/ +ff+ [G/B/e/] [G/B/e/] [G/B/e/] [G/B/e/] [G/B/e/] z7/2 |]
 
 
-X: 4
+X:4
 T: Dallas 4/4 [Drums]
 M: 4/4
 Q: 120

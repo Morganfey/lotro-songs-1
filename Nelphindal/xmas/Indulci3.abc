@@ -7,8 +7,8 @@
 %%abc-version 2.0
 
 
-X: 1
-T: Indulci [Clarinet] 1/3 (2:09)
+X:1
+T: Indulci 1/3 [Clarinet] (2:09)
 %%part-name Clarinet
 M: 4/4
 Q: 72
@@ -58,8 +58,8 @@ K: C maj
 [G,3/4F3/4-] F/4 [G,E] [F,9/2F9/2] z3/2 |]
 
 
-X: 2
-T: Indulci [Flute] 2/3 (2:09)
+X:2
+T: Indulci 2/3 [Flute] Dec 26
 %%part-name Flute
 M: 4/4
 Q: 72
@@ -109,8 +109,8 @@ K: C maj
 [G,F] [CE] [A,9/2F9/2] z3/2 |]
 
 
-X: 3
-T: Indulci [Harp] 3/3 (2:09)
+X:3
+T: Indulci 3/3 [Harp]
 %%part-name Harp
 M: 4/4
 Q: 72

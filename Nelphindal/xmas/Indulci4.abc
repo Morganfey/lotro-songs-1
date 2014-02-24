@@ -7,8 +7,8 @@
 %%abc-version 2.0
 
 
-X: 1
-T: Indulci [Clarinet] 1/4 (2:49)
+X:1
+T: Indulci 1/4 [Clarinet] (2:49)
 %%part-name Clarinet
 M: 4/4
 Q: 72
@@ -72,8 +72,8 @@ F, A,2 ^A, C7/4 z/4 C D |
 G, C A,9/2 z3/2 |]
 
 
-X: 2
-T: Indulci [Flute] 2/4 (2:49)
+X:2
+T: Indulci 2/4 [Flute] Dec 26
 %%part-name Flute
 M: 4/4
 Q: 72
@@ -137,8 +137,8 @@ C, F,2 E, F,7/4 z/4 F,3/4 z/4 F,- |
 F, E, F,9/2 z3/2 |]
 
 
-X: 3
-T: Indulci [Harp] 3/4 (2:49)
+X:3
+T: Indulci 3/4 [Harp]
 %%part-name Harp
 M: 4/4
 Q: 72
@@ -202,8 +202,8 @@ F c3 A7/4 z/4 A G- |
 G3/4 z/4 G F9/2 z3/2 |]
 
 
-X: 4
-T: Indulci [Theorbo] 4/4 (2:49)
+X:4
+T: Indulci 4/4 [Theorbo]
 %%part-name Theorbo
 M: 4/4
 Q: 72
