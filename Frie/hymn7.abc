@@ -8,9 +8,7 @@
 
 
 X: 1
-T: Lute Hymn - Ultravox 1/7 - (5:52)
-%%part-name Lute
-C: 5-1-14
+T: <Hymn - Ultravox> 1/7 [Lute] 5:52
 Z: Morganfey
 M: 4/4
 Q: 141
@@ -246,7 +244,7 @@ z8 |]
 
 
 X: 2
-T: Theorbo Hymn - Ultravox 2/7 - (5:52)
+T: <Hymn - Ultravox> 2/7 [Theorbo] (5:52)
 %%part-name Theorbo
 C: 5-1-14
 Z: Morganfey
@@ -484,7 +482,7 @@ F/ F F F F z7/2 |]
 
 
 X: 3
-T: Flute Hymn - Ultravox 3/7 - (5:52)
+T: <Hymn - Ultravox> 3/7 [Flute] (5:52)
 %%part-name Flute
 C: 5-1-14
 Z: Morganfey
@@ -492,7 +490,7 @@ M: 4/4
 Q: 141
 K: C maj
 
-+ffff+ z8 |
++fff+ z8 |
 z8 |
 z8 |
 z8 |
@@ -712,7 +710,7 @@ z11/2 [F,5/2-^G,5/2-C5/2-F5/2-] |
 [F,3/2-^A,3/2C3/2-^A3/2] [F,2-=A,2-C2-=A2] [F,2A,2C2F2] [G,5/2-^A,5/2-D5/2-G5/2-] |
 % Bar 200 (5:38)
 [G,3/2-^A,3/2-D3/2G3/2] [G,4A,4D4-] [F,5/2-=A,5/2-D5/2-A5/2-] |
-[F,3/2-A,3/2-D3/2A3/2] [F,4A,4D4] +fff+ [^D,5/2-G,5/2-^A,5/2-G5/2-] |
+[F,3/2-A,3/2-D3/2A3/2] [F,4A,4D4] [^D,5/2-G,5/2-^A,5/2-G5/2-] |
 [^D,3/2-G,3/2-^A,3/2-G3/2] [D,2-G,2-A,2-F2] +ff+ [D,2G,2A,2^D2] [F,5/2-A,5/2-=D5/2-F5/2-] |
 [F,3/2-^A,3/2D3/2F3/2] [F,4=A,4D4] +f+ [G,5/2-^A,5/2-D5/2-G5/2-] |
 [G,3/2-^A,3/2-D3/2G3/2] +mf+ [G,4A,4D4-] [F,5/2-=A,5/2-D5/2-A5/2-] |
@@ -722,7 +720,7 @@ z8 |]
 
 
 X: 4
-T: Clarinet Hymn - Ultravox 4/7 - (5:52)
+T: <Hymn - Ultravox> 4/7 [Clarinet] (5:52)
 %%part-name Clarinet
 C: 5-1-14
 Z: Morganfey
@@ -960,7 +958,7 @@ z8 |]
 
 
 X: 5
-T: Horn Hymn - Ultravox 5/7 - (5:52)
+T: <Hymn - Ultravox> 5/7 [Horn] (5:52)
 %%part-name Horn
 C: 5-1-14
 Z: Morganfey
@@ -1198,7 +1196,7 @@ z8 |]
 
 
 X: 6
-T: Drums Hymn - Ultravox 6/7 - (5:52)
+T: <Hymn - Ultravox> 6/7 [Drums] (5:52)
 %%part-name Drums
 C: 5-1-14
 Z: Morganfey
@@ -1436,7 +1434,7 @@ z8 |]
 
 
 X: 7
-T: Bagpipe Hymn - Ultravox 7/7 - (5:52)
+T: <Hymn - Ultravox> 7/7 [Bagpipe] (5:52)
 %%part-name Bagpipe
 C: 5-1-14
 Z: Morganfey
