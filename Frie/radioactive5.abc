@@ -1,5 +1,5 @@
 X: 1
-T: Clarinet: 1/5 Imagine Dragons - Radioactive (Pianoitall.com) (3:21)
+T: <Imagine Dragons - Radioactive> 1/5 clarinet (3:21)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi by Morganfey
 %  Original file: Imagine Dragons - Radioactive (Pianoitall.com).mid
 %  Transpose: -9
@@ -39,7 +39,7 @@ a7/8 z/2 a3/8 g/2 f3/8 g7/8 d7/8 z/2 a3/8 g/2 f3/8 g7/8 d7/8 z/2
 c'3/8 c'/2 c'3/8 b7/8 b7/8 z/2 b3/8 b/2 b3/8 a7/8 a7/8 
 
 X: 2
-T: Harp: 2/5 Imagine Dragons - Radioactive (Pianoitall.com) (3:21)
+T: <Imagine Dragons - Radioactive> 2/5 harp (3:21)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi by Morganfey
 %  Original file: Imagine Dragons - Radioactive (Pianoitall.com).mid
 %  Transpose: -9
@@ -106,7 +106,7 @@ K: C
 [G,7/4B,7/4D7/4] 
 
 X: 3
-T: Flute: 3/5 Imagine Dragons - Radioactive (Pianoitall.com) (3:21)
+T: <Imagine Dragons - Radioactive> 3/5 flute (3:21)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi by Morganfey
 %  Original file: Imagine Dragons - Radioactive (Pianoitall.com).mid
 %  Transpose: -9
@@ -146,7 +146,7 @@ a7/8 z/2 a3/8 g/2 f3/8 g7/8 d7/8 z/2 a3/8 g/2 f3/8 g7/8 d7/8 z/2
 c'3/8 c'/2 c'3/8 b7/8 b7/8 z/2 b3/8 b/2 b3/8 a7/8 a7/8 
 
 X: 4
-T: Lute: 4/5 Imagine Dragons - Radioactive (Pianoitall.com) (3:21)
+T: <Imagine Dragons - Radioactive> 4/5 lute (3:21)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi by Morganfey
 %  Original file: Imagine Dragons - Radioactive (Pianoitall.com).mid
 %  Transpose: -9
@@ -214,7 +214,7 @@ K: C
 
 
 X: 5
-T: Horn: 5/5 (optional) Imagine Dragons - Radioactive (Pianoitall.com) (3:21)
+T: <Imagine Dragons - Radioactive> 5/5 horn (opt) (3:21)
 Z: Transcribed using LotRO MIDI Player: http://lotro.acasylum.com/midi by Morganfey
 %  Original file: Imagine Dragons - Radioactive (Pianoitall.com).mid
 %  Transpose: -9
