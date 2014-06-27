@@ -1,0 +1,1142 @@
+%%song-title       CarmenIIIEntr-Bizet
+%%song-composer    
+%%song-duration    1:55
+%%song-transcriber Morganfey
+
+%%abc-creator Maestro v1.4.1
+%%abc-version 2.0
+
+
+X: 1
+T: <CarmenIIIEntr-Bizet> 1/6 [Lute] (1:55) 6-24
+%%part-name Lute
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ff+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z E ^C |
+% Bar 10 (0:06)
+A, +fff+ [E^c-e-] +ff+ [^Cce] |
++f+ A, +fff+ [Fd-f-] +f+ [Ddf] |
+A, +ff+ [Fd-f-] +f+ [Ddf] |
+A, +ff+ [Ge-g-] +mf+ [Eeg] |
+A, +f+ [Ge-g-] +mf+ [Eeg] |
+A, +f+ [Fd-f-] +mf+ [Ddf] |
++mp+ A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+% Bar 20 (0:13)
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+% Bar 30 (0:20)
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+% Bar 40 (0:27)
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [Fd-f-] +mp+ [Ddf] |
+A, +mf+ [E^c-e-] +mp+ [^Cce] |
+% Bar 50 (0:34)
+A, z2 |
+z3 |
+z3 |
+z3 |
+z3 |
++mf+ [F,C] [Ge-^a-] [Eea] |
+[F,C] [Ge-^a-] [Eea] |
+[F,A,] [Af-a-] [Ffa] |
+F, z2 |
+z3 |
+% Bar 60 (0:41)
+z3 |
+z3 |
+z3 |
+[F,C] [Ge-^a-] [Eea] |
+[F,C] [Ge-^a-] [Eea] |
+[F,A,] [Aa-] [Fa] |
+[E,^C] [Aa-] [Ga] |
+[D,D] [Aa-] [Ga] |
+[E,^C] [Aa-] [Ga] |
+[F,C] [Aa-] [Fa] |
+% Bar 70 (0:48)
+[E,^C] [Aa-] [Ga] |
+[D,D] [Aa-] [Fa] |
+[B,a] z2 |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] [Ee] |
+[A,A] [Gg] [Ee] |
+[A,A] [Ff] [Dd] |
+% Bar 80 (0:55)
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] +f+ [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] [Ee] |
+[A,A] [Gg] [Ee] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+% Bar 90 (1:03)
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] +ff+ [Ee] |
+[A,A] [Gg] [Ee] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+[A,A] z2 |
+z3 |
+% Bar 100 (1:10)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 110 (1:17)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z +fff+ [E^c-e-] +ff+ [^Cce] |
+A, +fff+ [E^c-e-] +ff+ [^Cce] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [Ge-g-] +ff+ [Eeg] |
+% Bar 120 (1:24)
+A, +fff+ [Ge-g-] +ff+ [Eeg] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [E^c-e-] +ff+ [^Cce] |
+A, +fff+ [E^c-e-] +ff+ [^Cce] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [Fd-f-] +ff+ [Ddf] |
+A, +fff+ [Ge-g-] +ff+ [Eeg] |
+A, +fff+ [Ge-g-] +f+ [Eeg] |
+A, +fff+ [Fd-f-] +f+ [Ddf] |
+% Bar 130 (1:31)
+A, +ff+ [Fd-f-] +f+ [Ddf] |
+A, +ff+ [E^c-e-] +f+ [^Cce] |
+A, +ff+ [E^c-e-] +f+ [^Cce] |
+A, +ff+ [Fd-f-] +f+ [Ddf] |
+A, +ff+ [Fd-f-] +mf+ [Ddf] |
+A, +f+ [Ge-g-] +mf+ [Eeg] |
+A, +f+ [Ge-g-] +mf+ [Eeg] |
+A, +f+ [Fd-f-] +mf+ [Ddf] |
+A, +f+ [Fd-f-] +mf+ [Ddf] |
+A, [E^c-e-] [^Cce] |
+% Bar 140 (1:38)
+A, z2 |
+A, [Fd-f-] +mp+ [Ddf] |
+A, z2 |
+A, +mf+ [Ge-g-] +mp+ [Eeg] |
+A, z2 |
+[A,5/4D5/4] +mf+ [^A7/4-d7/4-f7/4-] |
+[^A/4d/4f/4] z11/4 |
+z3/4 +mp+ [A,a-] +mf+ [A5/4-e5/4-a5/4-] |
+[A3/4e3/4a3/4] +p+ ^g/ a/ z5/4 |
+z3/4 +mp+ [F,a-] [A5/4-f5/4-a5/4-] |
+% Bar 150 (1:45)
+[A3/4f3/4a3/4] +p+ ^g/ a/ z5/4 |
+z3/4 +mp+ [E,a-] [A5/4-g5/4-a5/4-] |
+[A3/4g3/4a3/4] +p+ ^g/ a/ z5/4 |
+z3/4 [D,a-] +mp+ [A5/4-f5/4-a5/4-] |
+[A3/4f3/4a3/4] +p+ ^g/ a/ z5/4 |
+z3/4 A, +mp+ [E^c-e-] +p+ [^C/4-c/4-e/4-] |
+[^C3/4^c3/4e3/4] A, +mp+ [Ec-e-] +p+ [C/4-c/4-e/4-] |
+[^C3/4^c3/4e3/4] A,2 z/4 |
+z3/4 +mp+ [E2^c2e2] z/4 |
+z3/4 [^C2^c2e2] z/4 |
+% Bar 160 (1:52)
+z3/4 +p+ A,2 z/4 |
+z3 |
+z3 |
+z3/4 +mp+ [A,2A2] z/4 |]
+
+
+X: 2
+T: <CarmenIIIEntr-Bizet> 2/6 [Theorbo] (1:55) 6-24
+%%part-name Theorbo
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ff+ [z/4A/4-] A3/4 A/ A/ A |
+G3/4 z/4 F3/4 z/4 G3/4 z/4 |
+A A/ A/ A |
+^A3/4 z/4 c3/4 z/4 A3/4 z/4 |
+A A/ A/ A |
+G3/4 z/4 F3/4 z/4 G3/4 z/4 |
+A A/ A/ A |
+^A3/4 z/4 c3/4 z/4 A3/4 z/4 |
+A z2 |
+% Bar 10 (0:06)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 20 (0:13)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 30 (0:20)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 40 (0:27)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 50 (0:34)
+z3 |
+F [Ac] A |
+[FA] z2 |
+F d- [^Ad] |
+[Fd] z2 |
+z3 |
+z3 |
+z3 |
+z3 |
+F [Ac] A |
+% Bar 60 (0:41)
+[FA] z2 |
+F d- [^Ad] |
+[Fd] z2 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 70 (0:48)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 80 (0:55)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 90 (1:03)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
++f+ d2 z |
+% Bar 100 (1:10)
+^f2 z |
+g3- |
+g z2 |
+z3 |
+z3 |
+z3 |
+z3 |
++fff+ A3/4 z9/4 |
+z3 |
+z3 |
+% Bar 110 (1:17)
+A z2 |
++ff+ d a3/4 z/4 f3/4 z/4 |
+d3/4 z/4 a3/4 z/4 f3/4 z/4 |
+c3/4 z/4 g3/4 z/4 e3/4 z/4 |
+^A3/4 z/4 f3/4 z/4 d3/4 z/4 |
+A3/4 z9/4 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 120 (1:24)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 130 (1:31)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 140 (1:38)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 150 (1:45)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 160 (1:52)
+z3 |
+z3 |
+z3 |
+z3 |]
+
+
+X: 3
+T: <CarmenIIIEntr-Bizet> 3/6 [Flute] (1:55) 6-24
+%%part-name Flute
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ffff+ [z/4A,/4-^C/4-E/4-A/4-] [A,/-C/E/-A/-] [A,/4E/4A/4] [A,/C/E/A/] [A,/C/E/A/] [A,3/4-C3/4E3/4-A3/4-] [A,/4E/4A/4] |
+[^A,3/4D3/4F3/4^A3/4] z/4 [C3/4E3/4G3/4c3/4] z/4 [A,3/4D3/4F3/4A3/4] z/4 |
+[A,3/4-^C3/4E3/4-A3/4-] [A,/4E/4A/4] [A,/C/E/A/] [A,/C/E/A/] [A,3/4-C3/4E3/4-A3/4-] [A,/4E/4A/4] |
+[G,3/4^A,3/4D3/4G3/4] z/4 [F,3/4=A,3/4C3/4F3/4] z/4 [G,3/4^A,3/4D3/4G3/4] z/4 |
+[A,3/4-^C3/4E3/4-A3/4-] [A,/4E/4A/4] [A,/C/E/A/] [A,/C/E/A/] [A,3/4-C3/4E3/4-A3/4-] [A,/4E/4A/4] |
+[^A,3/4D3/4F3/4^A3/4] z/4 [C3/4E3/4G3/4c3/4] z/4 [A,3/4D3/4F3/4A3/4] z/4 |
+[A,3/4-^C3/4E3/4-A3/4-] [A,/4E/4A/4] [A,/C/E/A/] [A,/C/E/A/] [A,3/4-C3/4E3/4-A3/4-] [A,/4E/4A/4] |
+[G,3/4^A,3/4D3/4G3/4] z/4 [F,3/4=A,3/4C3/4F3/4] z/4 [G,3/4^A,3/4D3/4G3/4] z/4 |
+[A,3/4-^C3/4E3/4-A3/4-] [A,/4E/4A/4] z2 |
+% Bar 10 (0:06)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z A G/ z/ |
+G2 F- |
+% Bar 20 (0:13)
+F E3/2 D/ |
+D2 ^C- |
+^C D3/2 E/ |
+^A,7/4 z/4 A,- |
+^A, C A, |
+A,3 |
+A,/- [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] [A,/-C/] [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ A/ G/ A/ |
+% Bar 30 (0:20)
+^A/ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ F/ |
+E/ F/ E/ D/ C/ ^A,/ |
+A,3- |
+A, A3/2 G/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D E |
+^A,/4 C/ A,/4 =A, ^A, |
+% Bar 40 (0:27)
+D2 ^C- |
+^C/4 A,11/4 |
++ff+ A,/- +ffff+ [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] [A,/-C/] [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ A/ G/ A/ |
+^A/ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ F/ |
+E/ F/ E/ D/ C/ ^A,/ |
+A,3- |
+% Bar 50 (0:34)
+A, [A/c/] [^A/d/] [=A/c/] [G/^A/] |
+[F3/4A3/4] z/4 +fff+ [C,-F,A,] [C,A,C] |
+[^C,3/4A,3/4^C3/4-F3/4-] [C/4F/4] +ffff+ [F/A/f/] [G/^A/g/] [F/=A/f/] [E/G/^d/] |
+[D3/4F3/4d3/4] z/4 +fff+ [D,-^A,-D] [D,A,DF] |
+[D,3/4^A,3/4F3/4-^A3/4-] [F/4A/4] +ffff+ [D/F/d/] [E/G/e/] [D/F/d/] [C/E/c/] |
+[CEc] [^A,D^A] [=A,C=A] |
+[^A,D^A] [C3/2E3/2c3/2] [D/4F/4d/4] z/4 |
+[DFd] [A,7/4C7/4A7/4] z/4 |
+z [A/c/] [^A/d/] [=A/c/] [G/-^A/-] |
+[G3/4^A3/4] z/4 [C,/-F,/-A,/-F/=A/] [C,/-F,/A,/E/^G/] [C,3/4-A,3/4-C3/4-F3/4A3/4] [C,/4A,/4C/4] |
+% Bar 60 (0:41)
++fff+ [^C,3/4A,3/4^C3/4-F3/4-] [C/4F/4] +ffff+ [F/A/f/] [G/^A/g/] [F/=A/f/] [E/G/e/] |
+[E3/4G3/4e3/4] z/4 [D,/-^A,/-D/-F/d/] [D,/-A,/-^C/D/E/^c/] [D,3/4-A,3/4-D3/4-F3/4-d3/4] [D,/4A,/4D/4F/4] |
++fff+ [D,3/4^A,3/4F3/4-^A3/4-] [F/4A/4] +ffff+ [D/F/d/] [E/G/e/] [D/F/d/] [C/E/c/] |
+[^A,D^A] [=A,C=A] [^A,D^A] |
+[CEc] [E3/2G3/2e3/2] [D/4-F/4-d/4] [D/4F/4] |
+[A,3/4C3/4A3/4-] A2 +fff+ ^G/4 |
+[A,3/4-A3/4] A,/4 B,/4 ^C/ D/4 E/4 F/ G/4 |
+A11/4 ^G/4 |
+A G/4 F/ E/4 D/4 ^C/ B,/4 |
+[A,3/4A3/4-] A2 ^G/4 |
+% Bar 70 (0:48)
+[A,3/4-A3/4] A,/4 B,/4 ^C/ D/4 E/4 F/ G/4 |
+A11/4 ^G/4 |
+A A/4 ^G/ A/4 B/4 ^c/ d/4 |
++ffff+ [E3e3] |
+[Ee] [Ff] [Gg] |
+[^A/^a/] [=A/=a/] [G3/4g3/4] z/4 [F3/4f3/4] z/4 |
+[E3/4e3/4] z/4 [F3/4f3/4] z/4 [D3/4d3/4] z/4 |
+[G/g/] [F/f/] [E3/4e3/4] z/4 [D3/4d3/4] z/4 |
+[^C3/4^c3/4] z/4 [D3/4d3/4] z/4 [B,3/4B3/4] z/4 |
+[E/e/] [D/d/] [^C3/4^c3/4] z/4 [B,3/4B3/4] z/4 |
+% Bar 80 (0:55)
+[A,3/4A3/4] z/4 [B,3/4B3/4] z/4 [^G,3/4^G3/4] z/4 |
+[A,3-A3-] |
+[A,A] A G3/4 z/4 |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D3/2 E/ |
+^A,7/4 z/4 A,- |
+^A, C A, |
+A,3 |
+% Bar 90 (1:03)
++fff+ [A,/-A/] +ffff+ [A,/B,/B/] [A,/-A/] [A,/B,/B/] [A,/-A/] [A,/-B,/B/] |
+[A,/-^C/^c/] [A,/-D/d/] [A,/-C/c/] [A,/-D/d/] [A,/-C/c/] [A,/-D/d/] |
+[A,/-E/e/] [A,/-F/f/] [A,/-E/e/] [A,/-F/f/] [A,/-E/e/] [A,/-F/f/] |
+[A,/-G/g/] [A,/A/] G/ A/ G/ A/ |
+^A/ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ F/ |
+[E/e/] [F/f/] [E/e/] [D/d/] [C/c/] [^A,/^A/] |
+[A,3-A3-] |
+[A,/A/-] A/ +fff+ A3/2 G/ |
+G +ffff+ [C,A,G] +fff+ [C,-A,-^F-] |
+% Bar 100 (1:10)
+[C,A,^F] F3/2 ^D/ |
+^D +ffff+ [C,A,D] +fff+ [C,-A,-=D-] |
+[C,A,D] D3/2 C/ |
++ffff+ [^D,-G,-C] +fff+ [D,-G,-^A,] [D,-G,-=A,] |
+[^D,G,^A,] C D |
+^D F G |
+A c ^A |
++ffff+ [D,3/4F,3/4A,3/4-] A,/4 D C |
+^A, C =A, |
+^A, G, =A, |
+% Bar 110 (1:17)
+[^C,/-F,/A,/-] [C,/4G,/4-A,/4] G,/4 F, E, |
+D,- +fff+ [D,3/4-A,3/4] D,/4- [D,3/4-F,3/4] D,/4 |
+D,- [D,3/4-A,3/4] D,/4- [D,3/4-F,3/4] D,/4 |
+C,- [C,3/4-G,3/4] C,/4- [C,3/4-E,3/4] C,/4 |
+^A,- [F,3/4A,3/4-] A,/4- [D,3/4A,3/4-] A,/4 |
+A, z2 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 120 (1:24)
+z3 |
+z3 |
+z3 |
+z3 |
+z +ffff+ A G/ z/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D3/2 E/ |
+^A,7/4 z/4 A,- |
+% Bar 130 (1:31)
+^A, C A, |
+A,3 |
+A,/- [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] [A,/-C/] [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ A/ G/ A/ |
+^A/ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ F/ |
+E/ F/ E/ D/ C/ ^A,/ |
+A,3- |
+% Bar 140 (1:38)
+A, A3/2 G/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D E |
+^A,/ C/4 A,/ =A, ^A,3/4- |
+^A,/4 D9/4 ^C/- |
+^C3/4 A,9/4- |
+A,3/4 +fff+ A, B,/4 ^C/ D/4 E/4 |
+F/ G/4 A z5/4 |
+% Bar 150 (1:45)
+z3/4 A G/4 F/ E/4 D/4 |
+^C/ B,/4 A,3/4 z3/2 |
+z3/4 A, B,/4 ^C/ D/4 E/4 |
+F/ G/4 A z5/4 |
+z3/4 A A/4 +ff+ ^G/ A/4 B/4 |
+^c/ d/4 +fff+ [^C9/4-A9/4-e9/4-] |
+[^C3-A3-e3-] |
+[^C3-A3-e3-] |
+[^C3-A3-e3-] |
+[^C3-A3-e3-] |
+% Bar 160 (1:52)
+[^C3-A3-e3-] |
+[^C7/4A7/4e7/4] z5/4 |
+z3 |
+z3 |]
+
+
+X: 4
+T: <CarmenIIIEntr-Bizet> 4/6 [Harp] (1:55) 6-24
+%%part-name Harp
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ff+ z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z E +f+ ^C |
+% Bar 10 (0:06)
+A, +ff+ [EA-] +f+ [^CA] |
+A, [FA-] [DA] |
+A, [FA-] +mf+ [DA] |
+A, [GA-] [EA] |
+A, [GA-] [EA] |
+A, [FA-] +mp+ [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+% Bar 20 (0:13)
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+% Bar 30 (0:20)
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+% Bar 40 (0:27)
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+% Bar 50 (0:34)
+A, z2 |
++ff+ [F,F] [Cc] [A,A] |
+[F,F] z2 |
+[F,F] [Dd] [^A,^A] |
+[F,F] z2 |
++mf+ [Cc] [Gc-g] [Ece] |
+[Cc] [Gc-g] [Ece] |
+[Cc] [Ac-a] [Fcf] |
+z3 |
+[F,F] [Cc] [A,A] |
+% Bar 60 (0:41)
+[F,F] z2 |
+[F,F] [Dd] [^A,^A] |
+[F,F] z2 |
+[Cc] [Gc-g] [Ece] |
+[Cc] [Gc-g] [Ece] |
+[Cc] [Af-] [Ff] |
+^C [Ag-] [Gg] |
+D [Af-] [Ff] |
+^C [Ag-] [Gg] |
+C [Af-] [Ff] |
+% Bar 70 (0:48)
+^C [Ag-] [Gg] |
+D [Af-] [Ff] |
+[Df] z2 |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] [Ee] |
+[A,A] [Gg] [Ee] |
+[A,A] [Ff] [Dd] |
+% Bar 80 (0:55)
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] [Ee] |
+[A,A] [Gg] [Ee] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+% Bar 90 (1:03)
+[A,A] [Ee] [^C^c] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Gg] [Ee] |
+[A,A] [Gg] [Ee] |
++f+ [A,A] [Ff] [Dd] |
+[A,A] [Ff] [Dd] |
+[A,A] [Ee] [^C^c] |
+[A,A] z2 |
+z3 |
+% Bar 100 (1:10)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 110 (1:17)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
++ff+ A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+% Bar 120 (1:24)
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [GA-] [EA] |
+A, [GA-] +f+ [EA] |
+A, [FA-] [DA] |
+% Bar 130 (1:31)
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+A, [EA-] [^CA] |
+A, [FA-] [DA] |
+A, +mf+ [FA-] [DA] |
+A, [GA-] [EA] |
+A, [GA-] [EA] |
+A, [FA-] [DA] |
+A, [FA-] [DA] |
+A, [EA-] [^CA] |
+% Bar 140 (1:38)
+A, z2 |
+A, [FA-] [DA] |
+A, z2 |
+A, [GA-] [EA] |
+A, z2 |
+z5/4 +mp+ F7/4- |
+F/4 z11/4 |
+z3/4 +mf+ [A,A] [E^c-e] [^C/4-=c/4-^c/4-] |
+[^C3/4c3/4^c3/4] +mp+ [A,A] z5/4 |
+z3/4 [A,A] [Fcf] [C/4-c/4-] |
+% Bar 150 (1:45)
+[C3/4c3/4] [A,A] z5/4 |
+z3/4 [A,A] [G^cg] [^C/4-c/4-] |
+[^C3/4^c3/4] [A,A] z5/4 |
+z3/4 [A,A] [Fdf] [D/4-d/4-] |
+[D3/4d3/4] [A,A] z5/4 |
+z7/4 +p+ A5/4- |
+A3/4 z A5/4- |
+A3/4 z9/4 |
+z3/4 A2 z/4 |
+z3 |
+% Bar 160 (1:52)
+z3/4 A2 z/4 |
+z3 |
+z3 |
+z3/4 A2 z/4 |]
+
+
+X: 5
+T: <CarmenIIIEntr-Bizet> 5/6 [Clarinet] (1:55) 6-24
+%%part-name Clarinet
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ff+ [z/4A,/4-^C/4-E/4-A/4-^c/4-] [A,/-C/E/A/c/-] [A,/4c/4] [A,/C/E/A/c/e/] [A,/C/E/A/c/e/] [A,3/4-C3/4E3/4A3/4c3/4-e3/4] [A,/4c/4] |
+[G,3/4D3/4F3/4^A3/4d3/4] z/4 [F,3/4E3/4G3/4c3/4e3/4] z/4 [G,3/4D3/4F3/4A3/4d3/4] z/4 |
+[A,3/4-^C3/4E3/4A3/4^c3/4-e3/4] [A,/4c/4] [A,/C/E/A/c/e/] [A,/C/E/A/c/e/] [A,3/4-C3/4E3/4A3/4c3/4-e3/4] [A,/4c/4] |
+[^A,3/4D3/4G3/4B3/4] z/4 [=A,3/4C3/4F3/4A3/4] z/4 [^A,3/4D3/4G3/4B3/4] z/4 |
+[A,3/4-^C3/4E3/4A3/4^c3/4-e3/4] [A,/4c/4] [A,/C/E/A/c/e/] [A,/C/E/A/c/e/] [A,3/4-C3/4E3/4A3/4c3/4-e3/4] [A,/4c/4] |
+[G,3/4D3/4F3/4^A3/4d3/4] z/4 [F,3/4E3/4G3/4c3/4e3/4] z/4 [G,3/4D3/4F3/4A3/4d3/4] z/4 |
+[A,3/4-^C3/4E3/4A3/4^c3/4-e3/4] [A,/4c/4] [A,/C/E/A/c/e/] [A,/C/E/A/c/e/] [A,3/4-C3/4E3/4A3/4c3/4-e3/4] [A,/4c/4] |
+[^A,3/4D3/4G3/4B3/4] z/4 [=A,3/4C3/4F3/4A3/4] z/4 [^A,3/4D3/4G3/4B3/4] z/4 |
+[A,3/4-^C3/4E3/4A3/4^c3/4-e3/4] [A,/4c/4] z2 |
+% Bar 10 (0:06)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z +f+ A G/ z/ |
+G2 F- |
+% Bar 20 (0:13)
+F E3/2 D/ |
+D2 ^C- |
+^C D3/2 E/ |
+^A,7/4 z/4 A,- |
+^A, C A, |
+A,3 |
++mp+ A,/- [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] [A,/-C/] +mf+ [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ A/ G/ A/ |
+% Bar 30 (0:20)
+^A/ +f+ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ +mf+ F/ |
+E/ F/ E/ D/ C/ ^A,/ |
+A,3- |
+A, +f+ A3/2 G/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D E |
++ff+ ^A,/4 C/ A,/4 =A, ^A, |
+% Bar 40 (0:27)
+D2 ^C- |
+^C/4 A,11/4 |
++pp+ A,/- +mp+ [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] +mf+ [A,/-C/] [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ +f+ A/ G/ A/ |
+^A/ c/ A/ c/ A/ +mf+ =A/ |
+G/ A/ G/ A/ G/ F/ |
+E/ F/ +mp+ E/ D/ C/ ^A,/ |
+A,3- |
+% Bar 50 (0:34)
+A, +ff+ [A/c/a/] [^A/d/^a/] [=A/c/=a/] [G/^A/g/] |
+[F,3/4-F3/4A3/4f3/4] F,/4 [Cf-] [A,Ff] |
+[F,3/4-A3/4-f3/4] [F,/4A/4] [F/A/f/] [G/^A/g/] [F/=A/f/] [E/G/e/] |
+[F,3/4-D3/4F3/4d3/4f3/4-] [F,/4f/4-] [D,3/4-D3/4F3/4-f3/4-] [D,/4F/4f/4] [^A,^A] |
+[F,3/4-d3/4-f3/4] [F,/4d/4] +mf+ [D/F/d/] [E/G/e/] [D/F/d/] [C/E/c/] |
+[F,3/4C3/4-E3/4-c3/4-] [C/4E/4c/4] [^A,D^A] [=A,C=A] |
+[F,3/4^A,3/4-C3/4D3/4-^A3/4-] [A,/4D/4A/4] [C3/2E3/2c3/2] [D/4F/4d/4] z/4 |
+[F,3/4C3/4D3/4-F3/4-d3/4-] [D/4F/4d/4] +mp+ [A,7/4C7/4A7/4] z/4 |
++mf+ [F,3/4C3/4] z/4 +ff+ [A/c/a/] [^A/d/^a/] [=A/c/=a/] [G/-^A/-g/-] |
+[F,3/4-G3/4^A3/4g3/4] F,/4 [C/-F/=A/f/-] [C/E/^G/e/f/] [A,3/4-F3/4-A3/4f3/4-] [A,/4F/4f/4] |
+% Bar 60 (0:41)
+[F,3/4-A3/4-f3/4] [F,/4A/4] [F/A/f/] [G/^A/g/] [F/=A/f/] [E/G/e/] |
+[F,3/4-E3/4G3/4e3/4f3/4-] [F,/4f/4-] [D,/-D/-F/-d/f/] [D,/4-^C/4-D/4E/4-F/4-^c/4-] [D,/4C/4E/4F/4c/4] [^A,3/4-D3/4F3/4^A3/4-d3/4] [A,/4A/4] |
+[F,3/4-d3/4-f3/4] [F,/4d/4] +mf+ [D/F/d/] [E/G/e/] [D/F/d/] [C/E/c/] |
+[F,3/4^A,3/4-C3/4D3/4-^A3/4-] [A,/4D/4A/4] [=A,C=A] [^A,D^A] |
+[F,3/4C3/4-E3/4-c3/4-] [C/4E/4c/4] [E3/2G3/2e3/2] [D/F/d/] |
+[F,3/4A,3/4-C3/4-A3/4-c3/4-] [A,/4-C/4A/4-c/4-] [A,3/4-A3/4-c3/4] [A,A] +mp+ [^G,/4^G/4] |
+[A,3/4A3/4^c3/4-] c z5/4 |
+[A7/4-d7/4] A ^G/4 |
+A3/4 z/4 +p+ ^c7/4 z/4 |
++mp+ [A,7/4-A7/4-c7/4] [A,A] [^G,/4^G/4] |
+% Bar 70 (0:48)
+[A,3/4A3/4^c3/4-] c z5/4 |
+[A7/4-d7/4] A ^G/4 |
+[A3/4d3/4] z9/4 |
+z [^C2E2A2^c2e2] |
+z [^C2E2A2^c2e2] |
+z [D2F2A2d2f2] |
+z [D2F2A2d2f2] |
+z [E2G2A2e2g2] |
+z [E2G2A2e2g2] |
+z +mf+ [D2F2A2d2f2] |
+% Bar 80 (0:55)
+z [D2F2A2d2f2] |
+z [^C2E2A2^c2e2] |
+z +f+ [^C-E-A-^c-e-a] [C3/4-E3/4-G3/4A3/4-c3/4-e3/4-] [C/4E/4A/4c/4e/4] |
+[G-g] +mf+ [D-FGA-d-f] +f+ [DF-Adf-] |
+[Ff] [D3/2E3/2F3/2-A3/2-d3/2-e3/2] [D/F/A/d/e/] |
+[D-d-] +mf+ [DE-G-A-de-] +f+ [^C-EGA^c-e] |
+[^C^c] [D3/2E3/2G3/2-A3/2-d3/2e3/2] [E/G/A/e/] |
+[^A,-^A-] +mf+ [A,3/4D3/4-F3/4-=A3/4-^A3/4d3/4-] [D/4-F/4-=A/4-d/4-] +f+ [A,-DFA^A-d] |
+[^A,^A] [CD-F-=A-cd-] [A,DFA^Ad] |
+[A,-A] +mf+ [A,2-^C2E2A2-^c2e2] |
+% Bar 90 (1:03)
+[A,-A] +f+ [A,2-^C2E2A2-^c2e2] |
+[A,-A] [A,2-D2F2A2-d2f2] |
+[A,-A] [A,2-D2F2A2-d2f2] |
+[A,A] [E2G2A2e2g2] |
+z [E2G2A2e2g2] |
+z [D2F2A2d2f2] |
+z [D2F2A2d2f2] |
+z [^C2E2A2^c2e2] |
+z +ff+ A3/2 G/ |
++fff+ G +ff+ [GAcg] +fff+ [^F-A-c-^f-] |
+% Bar 100 (1:10)
++ff+ [D,-^FAc^f] [D,F-] F/ ^D/ |
++fff+ [^F,-^D] +ff+ [F,DAc^d] +fff+ [=D-A-c-=d-] |
++ff+ [G,-DAcd] [G,3/2-D3/2] [G,/C/] |
+[^D,-G,-CE-^d-g-] [D,-G,-^A,E-d-g-] [D,-G,-=A,E-d-g-] |
+[^D,G,^A,E^dg] C D |
+^D F G |
+A c ^A |
+[F,3/4A,3/4-F3/4A3/4-d3/4f3/4] [A,/4A/4] +fff+ [Dd] [Cc] |
+[^A,^A] [Cc] [=A,=A] |
+[^A,^A] [G,G] [=A,=A] |
+% Bar 110 (1:17)
+[F,/A,/-^C/-F/A/-^c/-] [G,/4-A,/4C/4G/4-A/4c/4] [G,/4G/4] [F,F] [E,E] |
+[D,3/4-D3/4-d3/4] [D,/4-D/4-] [D,3/4-A,3/4D3/4-] [D,/4-D/4-] [D,3/4-F,3/4D3/4-] [D,/4D/4-] |
+[D,-D-] [D,3/4-A,3/4D3/4-] [D,/4-D/4-] [D,3/4-F,3/4D3/4-] [D,/4D/4] |
+C- [G,3/4C3/4-] C/4- [E,3/4C3/4-] C/4 |
+^A,- [F,3/4A,3/4-] A,/4- [D,3/4A,3/4-] A,/4 |
+[A,3-A3-] |
+[A,3-A3-] |
+[A,3-A3-] |
+[A,3A3-] |
+[A,3-A3-] |
+% Bar 120 (1:24)
+[A,3-A3-] |
+[A,3-A3-] |
+[A,3-A3-] |
+[A,A] z2 |
+z +f+ A G/ z/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D3/2 E/ |
+^A,7/4 z/4 A,- |
+% Bar 130 (1:31)
+^A, C A, |
+A,3 |
+A,/- [A,/B,/] A,/- [A,/B,/] A,/- [A,/-B,/] |
+[A,/-^C/] [A,/-D/] [A,/-C/] [A,/-D/] [A,/-C/] [A,/-D/] |
+[A,/-E/] [A,/-F/] [A,/-E/] +mf+ [A,/-F/] [A,/-E/] [A,/-F/] |
+[A,/-G/] [A,/A/] G/ A/ G/ A/ |
+^A/ c/ A/ c/ A/ =A/ |
+G/ A/ G/ A/ G/ F/ |
+E/ F/ E/ D/ C/ ^A,/ |
+A,3- |
+% Bar 140 (1:38)
+A, A3/2 G/ |
+G2 F- |
+F E3/2 D/ |
+D2 ^C- |
+^C D E |
+^A,/ C/4 A,/ =A, ^A,3/4- |
+^A,/4 D9/4 ^C/- |
+^C3/4 A,9/4- |
+A,7/4 z5/4 |
+z3 |
+% Bar 150 (1:45)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3/4 +p+ A9/4- |
+A3- |
+A3- |
+A3- |
+A3- |
+% Bar 160 (1:52)
+A3- |
+A3/4 [E9/4-A9/4-^c9/4-] |
+[E3-A3-^c3-] |
+[E7/4A7/4^c7/4] z5/4 |]
+
+
+X: 6
+T: <CarmenIIIEntr-Bizet> 6/6 [Drums] (1:55) 6-24
+%%part-name Drums
+Z: Morganfey
+M: 3/8
+Q: 120
+K: C maj
+
++ff+ [z/4G,/4-^A,/4-] [G,3/4A,3/4] [G,/A,/] [G,/A,/] [G,A,] |
+^A,2 z |
+[G,^A,] [G,/A,/] [G,/A,/] [G,A,] |
+^A,2 z |
+[G,^A,] [G,/A,/] [G,/A,/] [G,A,] |
+^A,2 z |
+[G,^A,] [G,/A,/] [G,/A,/] [G,A,] |
+^A,2 z |
++fff+ [G,-^A,GA] +ff+ [G,/-A,/] [G,/A,/] A, |
+% Bar 10 (0:06)
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
++f+ ^A, A,/ A,/ A, |
+^A,2 z |
+^A, +mf+ A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+z3 |
+% Bar 20 (0:13)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
++mp+ ^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+% Bar 30 (0:20)
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 40 (0:27)
+z3 |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+% Bar 50 (0:34)
+^A, G,/ G,/ G,/ G,/ |
++ff+ [G,-^A,] [G,/-A,/] [G,/A,/] A, |
+^A, G,/ G,/ G,/ G,/ |
+[G,-^A,] [G,/-A,/] [G,/A,/] A, |
+^A, z2 |
+G,- +mf+ [G,^A,-] A, |
+G,- [G,^A,-] A, |
+G,- [G,/-^A,/] [G,/A,/] A, |
+^A, G,/ G,/ G,/ G,/ |
+[G,-^A,] [G,/-A,/] [G,/A,/] A, |
+% Bar 60 (0:41)
+^A, G,/ G,/ G,/ G,/ |
+[G,-^A,] [G,/-A,/] [G,/A,/] A, |
+^A, z2 |
+G,- [G,^A,-] A, |
+G,- [G,^A,-] A, |
+G,- [G,/-^A,/] [G,/A,/] A, |
+^A,2 z |
++mp+ G,- [G,/-^A,/] [G,/A,/] A, |
+^A,2 z |
+G,- [G,/-^A,/] [G,/A,/] A, |
+% Bar 70 (0:48)
+^A,2 z |
+G,- [G,/-^A,/] [G,/A,/] A, |
+^A,2 z |
+G,- [G,/-^A,/] [G,/A,/] A, |
+^A,2 z |
+^A, A,/ A,/ A, |
++mf+ ^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+% Bar 80 (0:55)
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+^A, A,/ A,/ A, |
+% Bar 90 (1:03)
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, +f+ A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A, z2 |
+z3 |
+% Bar 100 (1:10)
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 110 (1:17)
+z3 |
++ff+ ^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A, z2 |
+^A, A,/ A,/ A, |
+^A, z2 |
+^A, A,/ A,/ A, |
+^A, z2 |
+^A, A,/ A,/ A, |
+% Bar 120 (1:24)
+^A, z2 |
+^A, A,/ A,/ A, |
+^A, z2 |
+^A, A,/ A,/ A, |
+^A, z2 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+% Bar 130 (1:31)
+z3 |
++f+ ^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
++mf+ ^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+^A,2 z |
+^A, A,/ A,/ A, |
+% Bar 140 (1:38)
+^A,2 z |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z3 |
+z7/4 +mp+ ^A,/ A,/ A,/4- |
+^A,3/4 A,2 z/4 |
+z7/4 +p+ ^A,/ A,/ A,/4- |
+% Bar 150 (1:45)
+^A,3/4 A,2 z/4 |
+z7/4 +pp+ ^A,/ A,/ A,/4- |
+^A,3/4 A,2 z/4 |
+z3/4 G,- [G,/-^A,/] [G,/A,/] A,/4- |
+^A,3/4 +ppp+ A,2 z/4 |
+z3/4 +p+ G,- [G,^A,-] A,/4- |
+^A,3/4 z A,5/4- |
+^A,3/4 z9/4 |
+z3/4 ^A,2 z/4 |
+z3 |
+% Bar 160 (1:52)
+z3/4 ^A,2 z/4 |
+z3 |
+z3 |
+z3 |]
+
