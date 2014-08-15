@@ -8,7 +8,7 @@
 
 
 X: 1
-T: <Fame-Cara> 1/7 [Lute] (5:01) 5-21
+T: <Fame-Cara> 1/8 [Lute] (5:01) 5-21
 %%part-name Lute
 C: 5-21-14
 Z: Morganfey
@@ -198,7 +198,7 @@ z8 |]
 
 
 X: 2
-T: <Fame-Cara> 2/7 [Harp] (5:01) 5-21
+T: <Fame-Cara> 2/8 [Harp] (5:01) 5-21
 %%part-name Harp
 C: 5-21-14
 Z: Morganfey
@@ -400,7 +400,7 @@ A ^G [^F-Ac-^d-] [F-Bc-d-] [^C/F/c/^c/-d/e/-] [c/-e/-] [C/c/e/] z/ [C/B/^f/-] f/
 
 
 X: 3
-T: <Fame-Cara> 3/7 [Theorbo] (5:01) 5-21
+T: <Fame-Cara> 3/8 [Theorbo] (5:01) 5-21
 %%part-name Theorbo
 C: 5-21-14
 Z: Morganfey
@@ -590,7 +590,7 @@ E/ z15/2 |]
 
 
 X: 4
-T: <Fame-Cara> 4/7 [Flute] (5:01) 5-21
+T: <Fame-Cara> 4/8 [Flute] (5:01) 5-21
 %%part-name Flute
 C: 5-21-14
 Z: Morganfey
@@ -802,7 +802,7 @@ z8 |]
 
 
 X: 5
-T: <Fame-Cara> 5/7 [Clarinet] (5:01) 5-21
+T: <Fame-Cara> 5/8 [Clarinet] (5:01) 5-21
 %%part-name Clarinet
 C: 5-21-14
 Z: Morganfey
@@ -996,7 +996,7 @@ z8 |]
 
 
 X: 6
-T: <Fame-Cara> 6/7 [Bagpipe] (5:01) 5-21
+T: <Fame-Cara> 6/8 [Bagpipe] (5:01) 5-21
 %%part-name Bagpipe
 C: 5-21-14
 Z: Morganfey
@@ -1186,7 +1186,7 @@ z8 |]
 
 
 X: 7
-T: <Fame-Cara> 7/7 [Drums] (5:01) 5-21
+T: <Fame-Cara> 7/8 [Drums] (5:01) 5-21
 %%part-name Drums
 C: 5-21-14
 Z: Morganfey
@@ -1376,7 +1376,7 @@ z8 |]
 
 
 X: 8
-T: <Fame-Cara> 8/7 [Pibgorn] (5:01) 5-21
+T: <Fame-Cara> 8/8 [Pibgorn] (5:01) 5-21
 %%part-name Pibgorn
 C: 5-21-14
 Z: Morganfey
