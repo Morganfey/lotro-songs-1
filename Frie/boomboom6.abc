@@ -8,7 +8,7 @@
 
 
 X: 1
-T: <Boom Boom - Venga> 1/8 [Flute] (3:22)
+T: <Boom Boom - Venga> 1/6 [Flute] (3:22)
 %%part-name Flute
 C: 5-4-14
 Z: Morganfey
@@ -164,7 +164,7 @@ z2 ^A3/2 z/ A3/2 z/ ^G z |
 
 
 X: 2
-T: <Boom Boom - Venga> 2/8 [Clarinet] (3:22)
+T: <Boom Boom - Venga> 2/6 [Clarinet] (3:22)
 %%part-name Clarinet
 C: 5-4-14
 Z: Morganfey
@@ -303,7 +303,7 @@ z2 ^A3/2 z/ A3/2 z/ ^G2 |
 
 
 X: 4
-T: <Boom Boom - Venga> 4/8 [Horn] (3:22)
+T: <Boom Boom - Venga> 4/6 [Horn] (3:22)
 %%part-name Horn
 C: 5-4-14
 Z: Morganfey
@@ -476,7 +476,7 @@ z3 [^A/^a/] [A/a/] [A/a/] z/ [Aa] [^G/^g/] z/ [G/g/] z/ |
 
 
 X: 5
-T: <Boom Boom - Venga> 5/8 [Bagpipe] (3:22)
+T: <Boom Boom - Venga> 5/6 [Bagpipe] (3:22)
 %%part-name Bagpipe
 C: 5-4-14
 Z: Morganfey
@@ -615,7 +615,7 @@ z8 |]
 
 
 X: 3
-T: <Boom Boom - Venga> 3/8 [Drums] (3:22)
+T: <Boom Boom - Venga> 3/6 [Drums] (3:22)
 %%part-name Drums
 C: 5-4-14
 Z: Morganfey
@@ -768,7 +768,7 @@ f/ z3/2 [^C/^A/f/] z3/2 [C/A/f/] z3/2 [C/A/f/] z3/2 |
 
 
 X: 6
-T: <Boom Boom - Venga> 6/8 [Cowbell] (3:22)
+T: <Boom Boom - Venga> 6/6 [Cowbell] (3:22)
 %%part-name Cowbell
 C: 5-4-14
 Z: Morganfey
