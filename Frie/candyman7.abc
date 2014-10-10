@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Candyman-Aqua> 1/6 Flute] (3:31) 10-8-14
+T: <Candyman-Aqua> 1/7 Flute] (3:31) 10-8-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -151,7 +151,7 @@ z8 |]
 
 
 X: 2
-T: <Candyman-Aqua> 2/6 Theorbo] (3:31) 10-8-14
+T: <Candyman-Aqua> 2/7 Theorbo] (3:31) 10-8-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -296,7 +296,7 @@ z8 |]
 
 
 X: 3
-T: <Candyman-Aqua> 3/6 Clarinet] (3:31) 10-8-14
+T: <Candyman-Aqua> 3/7 Clarinet] (3:31) 10-8-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -447,7 +447,7 @@ z8 |]
 
 
 X: 4
-T: <Candyman-Aqua> 4/6 Bagpipe] (3:31) 10-8-14
+T: <Candyman-Aqua> 4/7 Bagpipe] (3:31) 10-8-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -592,7 +592,7 @@ z8 |]
 
 
 X: 5
-T: <Candyman-Aqua> 5/6 Drums] (3:31) 10-8-14
+T: <Candyman-Aqua> 5/7 Drums] (3:31) 10-8-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -746,7 +746,7 @@ z8 |
 
 
 X: 6
-T: <Candyman-Aqua> 6/6 Lute] (3:31) 10-8-14
+T: <Candyman-Aqua> 6/7 Lute] (3:31) 10-8-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -891,7 +891,7 @@ g/ z/ c/ z/ g/ z/ c/ z/ g/ z/ c/ z/ ^a/ z/ c/ z/ |
 
 
 X: 7
-T: <Candyman-Aqua> 7/6 Horn] (3:31) 10-8-14
+T: <Candyman-Aqua> 7/7 Horn] (3:31) 10-8-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4
