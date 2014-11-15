@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <One Small Day-Ultravox> 1/7 Harp] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 1/7 [Harp] (4:23) 9-23-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -185,7 +185,7 @@ z8 |]
 
 
 X: 2
-T: <One Small Day-Ultravox> 2/7 Flute] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 2/7 [Flute] (4:23) 9-23-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -364,7 +364,7 @@ z8 |]
 
 
 X: 3
-T: <One Small Day-Ultravox> 3/7 Theorbo] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 3/7 [Theorbo] (4:23) 9-23-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -543,7 +543,7 @@ z8 |]
 
 
 X: 4
-T: <One Small Day-Ultravox> 4/7 Clarinet] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 4/7 [Clarinet] (4:23) 9-23-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -722,7 +722,7 @@ z8 |]
 
 
 X: 5
-T: <One Small Day-Ultravox> 5/7 Drums] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 5/7 [Drums] (4:23) 9-23-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -901,7 +901,7 @@ z8 |]
 
 
 X: 6
-T: <One Small Day-Ultravox> 6/7 Bagpipe] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 6/7 [Bagpipe] (4:23) 9-23-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -1080,7 +1080,7 @@ z8 |]
 
 
 X: 7
-T: <One Small Day-Ultravox> 7/7 Lute] (4:23) 9-23-14
+T: <One Small Day-Ultravox> 7/7 [Lute] (4:23) 9-23-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4

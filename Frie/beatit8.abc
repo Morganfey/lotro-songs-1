@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Beat It-M Jackson> 1/8 Flute] (4:12) 10-11-14
+T: <Beat It-M Jackson> 1/8 [Flute] (4:12) 10-11-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -202,7 +202,7 @@ D/ ^D/ =D/ E/ [D/^D/] =D/ [^C/D/] ^D/ +p+ D/ +mp+ F/ F/ ^F/ F/ F/ F/ F/ |
 
 
 X: 2
-T: <Beat It-M Jackson> 2/8 Theorbo] (4:12) 10-11-14
+T: <Beat It-M Jackson> 2/8 [Theorbo] (4:12) 10-11-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -372,7 +372,7 @@ F ^D ^C z4 ^D, |]
 
 
 X: 3
-T: <Beat It-M Jackson> 3/8 Clarinet] (4:12) 10-11-14
+T: <Beat It-M Jackson> 3/8 [Clarinet] (4:12) 10-11-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -562,7 +562,7 @@ E E/ E/ +fff+ [^D/f/] ^d/ +f+ ^c/ +fff+ [f/^f/] [d/=f/] +ff+ [c/d/f/] [c/f/^f/] 
 
 
 X: 4
-T: <Beat It-M Jackson> 4/8 Harp] (4:12) 10-11-14
+T: <Beat It-M Jackson> 4/8 [Harp] (4:12) 10-11-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -746,7 +746,7 @@ F ^D ^C z5 |
 
 
 X: 5
-T: <Beat It-M Jackson> 5/8 Bagpipe] (4:12) 10-11-14
+T: <Beat It-M Jackson> 5/8 [Bagpipe] (4:12) 10-11-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -938,7 +938,7 @@ F, ^D, ^C, z4 D, |]
 
 
 X: 6
-T: <Beat It-M Jackson> 6/8 Drums] (4:12) 10-11-14
+T: <Beat It-M Jackson> 6/8 [Drums] (4:12) 10-11-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -1108,7 +1108,7 @@ z8 |
 
 
 X: 7
-T: <Beat It-M Jackson> 7/8 Lute] (4:12) 10-11-14
+T: <Beat It-M Jackson> 7/8 [Lute] (4:12) 10-11-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -1281,7 +1281,7 @@ z8 |
 
 
 X: 8
-T: <Beat It-M Jackson> 8/8 Horn] (4:12) 10-11-14
+T: <Beat It-M Jackson> 8/8 [Horn] (4:12) 10-11-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4
