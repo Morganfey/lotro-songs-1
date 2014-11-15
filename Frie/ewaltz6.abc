@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Emperors Waltz-J Strauss'89> 1/6 Flute] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 1/6 [Flute] (3:50) 10-8-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -279,7 +279,7 @@ z2 z3/2 [D,/^A,/D/F/^A/f/] +p+ [D,/-A,/-D/-F/-A/-a/] [D,7/2-A,7/2-D7/2-F7/2-A7/2
 
 
 X: 2
-T: <Emperors Waltz-J Strauss'89> 2/6 Theorbo] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 2/6 [Theorbo] (3:50) 10-8-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -472,7 +472,7 @@ z3 ^A/ ^A,/ [A,/-A/] +p+ [A,/-A/] [A,/-A/] +pp+ [A,/A/] +mf+ [F/-A/] +pp+ [F/-A/
 
 
 X: 3
-T: <Emperors Waltz-J Strauss'89> 3/6 Clarinet] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 3/6 [Clarinet] (3:50) 10-8-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -697,7 +697,7 @@ z2 z3/2 [D/F/^A/d/f/^a/] [D4-F4-A4-d4-f4-a4-] |
 
 
 X: 4
-T: <Emperors Waltz-J Strauss'89> 4/6 Harp] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 4/6 [Harp] (3:50) 10-8-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -890,7 +890,7 @@ z3 ^A,/ z/ A,/ +f+ A,/ A,/ +mf+ A,/ +f+ A,/ +mf+ A,/ +f+ A,/ A,/ |
 
 
 X: 5
-T: <Emperors Waltz-J Strauss'89> 5/6 Drums] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 5/6 [Drums] (3:50) 10-8-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -1083,7 +1083,7 @@ z2 [^G/-A/^A/-] [G/A/] z5 |]
 
 
 X: 6
-T: <Emperors Waltz-J Strauss'89> 6/6 Lute] (3:50) 10-8-14
+T: <Emperors Waltz-1889-J Strauss> 6/6 [Lute] (3:50) 10-8-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4

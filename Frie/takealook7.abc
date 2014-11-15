@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Take a Look Around-Limpbizkit> 1/7 Theorbo] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 1/7 [Theorbo] (5:23) 10-15-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -258,7 +258,7 @@ z8 |]
 
 
 X: 2
-T: <Take a Look Around-Limpbizkit> 2/7 Clarinet] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 2/7 [Clarinet] (5:23) 10-15-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -438,7 +438,7 @@ z8 |]
 
 
 X: 3
-T: <Take a Look Around-Limpbizkit> 3/7 Harp] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 3/7 [Harp] (5:23) 10-15-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -686,7 +686,7 @@ z6 +mp+ [D/-^D/-^f/] +p+ [=D/^D/^d/-] [D//-d//] D// +mf+ [D//-f//] D//- |
 
 
 X: 4
-T: <Take a Look Around-Limpbizkit> 4/7 Drums] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 4/7 [Drums] (5:23) 10-15-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -947,7 +947,7 @@ z8 |]
 
 
 X: 5
-T: <Take a Look Around-Limpbizkit> 5/7 Bagpipe] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 5/7 [Bagpipe] (5:23) 10-15-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -1127,7 +1127,7 @@ z8 |]
 
 
 X: 6
-T: <Take a Look Around-Limpbizkit> 6/7 Lute] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 6/7 [Lute] (5:23) 10-15-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -1308,7 +1308,7 @@ z6 +mp+ ^f/ +p+ ^d3/4 z// +pp+ f// z// |
 
 
 X: 7
-T: <Take a Look Around-Limpbizkit> 7/7 Horn] (5:23) 10-15-14
+T: <Take a Look Around-Limpbizkit> 7/7 [Horn] (5:23) 10-15-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4

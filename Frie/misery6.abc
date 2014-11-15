@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Misery-'63-Beatles> 1/6 Flute] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 1/6 [Flute] (2:22) 10-11-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -98,7 +98,7 @@ c3/2 B A3/2 B3/2 A z3/2 |]
 
 
 X: 2
-T: <Misery-'63-Beatles> 2/6 Theorbo] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 2/6 [Theorbo] (2:22) 10-11-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -190,7 +190,7 @@ C2 z C G2 z C |
 
 
 X: 3
-T: <Misery-'63-Beatles> 3/6 Clarinet] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 3/6 [Clarinet] (2:22) 10-11-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -282,7 +282,7 @@ c'3/2 b +pppp+ a3/2 b3/2 a g3/2 |]
 
 
 X: 4
-T: <Misery-'63-Beatles> 4/6 Harp] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 4/6 [Harp] (2:22) 10-11-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -374,7 +374,7 @@ C- [CE-] [EG-] [G-c-] [G4c4] |
 
 
 X: 5
-T: <Misery-'63-Beatles> 5/6 Drums] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 5/6 [Drums] (2:22) 10-11-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -466,7 +466,7 @@ z6 B/ z3/2 |
 
 
 X: 6
-T: <Misery-'63-Beatles> 6/6 Lute] (2:22) 10-11-14
+T: <Misery-'63-Beatles> 6/6 [Lute] (2:22) 10-11-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4

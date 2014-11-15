@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Nights of Gladness 1912-Ancliffe> 1/6 Flute] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 1/6 [Flute] (4:48) 10-15-14
 %%part-name Flute
 Z: Morganfey
 M: 3/4
@@ -411,7 +411,7 @@ z55/48
 
 
 X: 2
-T: <Nights of Gladness 1912-Ancliffe> 2/6 Theorbo] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 2/6 [Theorbo] (4:48) 10-15-14
 %%part-name Theorbo
 Z: Morganfey
 M: 3/4
@@ -807,7 +807,7 @@ D11/4 z11/12
 
 
 X: 3
-T: <Nights of Gladness 1912-Ancliffe> 3/6 Clarinet] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 3/6 [Clarinet] (4:48) 10-15-14
 %%part-name Clarinet
 Z: Morganfey
 M: 3/4
@@ -1373,7 +1373,7 @@ z55/48
 
 
 X: 4
-T: <Nights of Gladness 1912-Ancliffe> 4/6 Drums] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 4/6 [Drums] (4:48) 10-15-14
 %%part-name Drums
 Z: Morganfey
 M: 3/4
@@ -1772,7 +1772,7 @@ z55/48
 
 
 X: 5
-T: <Nights of Gladness 1912-Ancliffe> 5/6 Lute] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 5/6 [Lute] (4:48) 10-15-14
 %%part-name Lute
 Z: Morganfey
 M: 3/4
@@ -2171,7 +2171,7 @@ z55/48
 
 
 X: 6
-T: <Nights of Gladness 1912-Ancliffe> 6/6 Horn] (4:48) 10-15-14
+T: <Nights of Gladness 1912-Ancliffe> 6/6 [Horn] (4:48) 10-15-14
 %%part-name Horn
 Z: Morganfey
 M: 3/4

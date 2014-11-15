@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <You Stole the Sun 1999-Manic St Prchrs> 1/7 Flute] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 1/7 [Flute] (4:10) 10-15-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -154,7 +154,7 @@ z8 |]
 
 
 X: 2
-T: <You Stole the Sun 1999-Manic St Prchrs> 2/7 Theorbo] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 2/7 [Theorbo] (4:10) 10-15-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -302,7 +302,7 @@ E8 |]
 
 
 X: 3
-T: <You Stole the Sun 1999-Manic St Prchrs> 3/7 Clarinet] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 3/7 [Clarinet] (4:10) 10-15-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -450,7 +450,7 @@ z8 |]
 
 
 X: 4
-T: <You Stole the Sun 1999-Manic St Prchrs> 4/7 Harp] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 4/7 [Harp] (4:10) 10-15-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -598,7 +598,7 @@ E A ^d2 E d A2 |
 
 
 X: 5
-T: <You Stole the Sun 1999-Manic St Prchrs> 5/7 Drums] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 5/7 [Drums] (4:10) 10-15-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -746,7 +746,7 @@ z8 |]
 
 
 X: 6
-T: <You Stole the Sun 1999-Manic St Prchrs> 6/7 Horn] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 6/7 [Horn] (4:10) 10-15-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4
@@ -894,7 +894,7 @@ z8 |]
 
 
 X: 7
-T: <You Stole the Sun 1999-Manic St Prchrs> 7/7 Lute] (4:10) 10-15-14
+T: <You Stole the Sun 1999-Manic St Prchrs> 7/7 [Lute] (4:10) 10-15-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4

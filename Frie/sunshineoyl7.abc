@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Sunshine of Your Love '67-Cream> 1/7 Flute] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 1/7 [Flute] (5:06) 10-11-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -182,7 +182,7 @@ z8 |]
 
 
 X: 2
-T: <Sunshine of Your Love '67-Cream> 2/7 Theorbo] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 2/7 [Theorbo] (5:06) 10-11-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -358,7 +358,7 @@ G,8 |
 
 
 X: 3
-T: <Sunshine of Your Love '67-Cream> 3/7 Clarinet] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 3/7 [Clarinet] (5:06) 10-11-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -536,7 +536,7 @@ z8 |]
 
 
 X: 4
-T: <Sunshine of Your Love '67-Cream> 4/7 Bagpipe] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 4/7 [Bagpipe] (5:06) 10-11-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -756,7 +756,7 @@ z G,/ z3/2 +p+ D,3/4 z// F,/ F,/ ^F,3/4 =F,// +mp+ [D,2-G,2-] |
 
 
 X: 5
-T: <Sunshine of Your Love '67-Cream> 5/7 Drums] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 5/7 [Drums] (5:06) 10-11-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -980,7 +980,7 @@ z ^d// z7/4 B,// z3/4 +ff+ A// z3/4 ^C// z3/4 A// z7/4 |
 
 
 X: 6
-T: <Sunshine of Your Love '67-Cream> 6/7 Lute] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 6/7 [Lute] (5:06) 10-11-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -1161,7 +1161,7 @@ z [G,/G/] z3/2 [D,/-D/] D,// z// [F,/F/] z3/2 [G,2-F2-A2-d2-] |
 
 
 X: 7
-T: <Sunshine of Your Love '67-Cream> 7/7 Horn] (5:06) 10-11-14
+T: <Sunshine of Your Love '67-Cream> 7/7 [Horn] (5:06) 10-11-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4

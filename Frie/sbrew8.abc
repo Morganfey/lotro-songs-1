@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Strange Brew-Cream'67> 1/6 Flute] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 1/6 [Flute] (2:46) 10-8-14
 %%part-name Flute
 Z: Morganfey
 M: 4/8
@@ -176,7 +176,7 @@ z4 |]
 
 
 X: 2
-T: <Strange Brew-Cream'67> 2/6 Theorbo] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 2/6 [Theorbo] (2:46) 10-8-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/8
@@ -346,7 +346,7 @@ z4 |]
 
 
 X: 3
-T: <Strange Brew-Cream'67> 3/6 Clarinet] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 3/6 [Clarinet] (2:46) 10-8-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/8
@@ -516,7 +516,7 @@ z4 |]
 
 
 X: 4
-T: <Strange Brew-Cream'67> 4/6 Harp] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 4/6 [Harp] (2:46) 10-8-14
 %%part-name Harp
 Z: Morganfey
 M: 4/8
@@ -686,7 +686,7 @@ z4 |]
 
 
 X: 5
-T: <Strange Brew-Cream'67> 5/6 Drums] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 5/6 [Drums] (2:46) 10-8-14
 %%part-name Drums
 Z: Morganfey
 M: 4/8
@@ -856,7 +856,7 @@ z4 |]
 
 
 X: 6
-T: <Strange Brew-Cream'67> 6/6 Bagpipe] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 6/6 [Bagpipe] (2:46) 10-8-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/8
@@ -1026,7 +1026,7 @@ z4 |]
 
 
 X: 7
-T: <Strange Brew-Cream'67> 7/6 Lute] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 7/6 Lute] (2:46) 10-8-14
 %%part-name Lute
 Z: Morganfey
 M: 4/8
@@ -1196,7 +1196,7 @@ z4 |]
 
 
 X: 8
-T: <Strange Brew-Cream'67> 8/6 Horn] (2:46) 10-8-14
+T: <Strange Brew-'67-Cream> 8/6 Horn] (2:46) 10-8-14
 %%part-name Horn
 Z: Morganfey
 M: 4/8

@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Spinning Wheel-BST'69> 1/6 Flute] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> 1/6 [Flute] (4:04) 10-8-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -240,7 +240,7 @@ G,2 [D,3/2B,3/2] +ppp+ [E,/C/] [D,/B,/] [C,/A,/] [G,B,-] [D,//-G,//-B,//] [D,/G,
 
 
 X: 2
-T: <Spinning Wheel-BST'69> 2/6 Theorbo] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> 2/6 [Theorbo] (4:04) 10-8-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -468,7 +468,7 @@ z8 |]
 
 
 X: 3
-T: <Spinning Wheel-BST'69> 3/6 Clarinet] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> 3/6 [Clarinet] (4:04) 10-8-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -723,7 +723,7 @@ G2 [D3/2B3/2] +ppp+ [E/c/] [D/B/] [C/A/] [B,-G-] [G,//-B,//D//-G//] [G,/D/] z// 
 
 
 X: 4
-T: <Spinning Wheel-BST'69> 4/6 Drums] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> 4/6 [Drums] (4:04) 10-8-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -953,7 +953,7 @@ z8 |]
 
 
 X: 5
-T: <Spinning Wheel-BST'69> 5/6 Lute] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> 5/6 [Lute] (4:04) 10-8-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -1181,7 +1181,7 @@ z8 |]
 
 
 X: 6
-T: <Spinning Wheel-BST'69> 6/6 Horn] (4:04) 10-8-14
+T: <Spinning Wheel-'69-BST> [6/6 Horn] (4:04) 10-8-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4

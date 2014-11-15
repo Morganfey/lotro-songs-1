@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Lezghinka-Khatchaturian> 1/6 Flute] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 1/6 [Flute] (2:20) 10-11-14
 %%part-name Flute
 Z: Morganfey
 M: 2/2
@@ -174,7 +174,7 @@ A,3 z13 |]
 
 
 X: 2
-T: <Lezghinka-Khatchaturian> 2/6 Clarinet] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 2/6 [Clarinet] (2:20) 10-11-14
 %%part-name Clarinet
 Z: Morganfey
 M: 2/2
@@ -342,7 +342,7 @@ A- [^G2A2] +fff+ [^F,G-A] +f+ [E,-A,-^C-GB] +fff+ [E,2F,2A,2C2A2-c2] +f+ [E,A^c]
 
 
 X: 3
-T: <Lezghinka-Khatchaturian> 3/6 Drums] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 3/6 [Drums] (2:20) 10-11-14
 %%part-name Drums
 Z: Morganfey
 M: 2/2
@@ -493,7 +493,7 @@ z16 |
 
 
 X: 4
-T: <Lezghinka-Khatchaturian> 4/6 Bagpipe] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 4/6 [Bagpipe] (2:20) 10-11-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 2/2
@@ -644,7 +644,7 @@ A,3 z13 |]
 
 
 X: 5
-T: <Lezghinka-Khatchaturian> 5/6 Lute] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 5/6 [Lute] (2:20) 10-11-14
 %%part-name Lute
 Z: Morganfey
 M: 2/2
@@ -795,7 +795,7 @@ A,3 z13 |]
 
 
 X: 6
-T: <Lezghinka-Khatchaturian> 6/6 Horn] (2:20) 10-11-14
+T: <Lezghinka-Khatchaturian> 6/6 [Horn] (2:20) 10-11-14
 %%part-name Horn
 Z: Morganfey
 M: 2/2
