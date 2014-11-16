@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Dancing With Tears-Ultravox'84> 1/7 Flute] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 1/7 [Flute] (3:44) 10-2-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -167,7 +167,7 @@ z8 |]
 
 
 X: 2
-T: <Dancing With Tears-Ultravox'84> 2/7 Theorbo] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 2/7 [Theorbo] (3:44) 10-2-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -325,7 +325,7 @@ z8 |]
 
 
 X: 3
-T: <Dancing With Tears-Ultravox'84> 3/7 Clarinet] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 3/7 [Clarinet] (3:44) 10-2-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -483,7 +483,7 @@ z8 |]
 
 
 X: 4
-T: <Dancing With Tears-Ultravox'84> 4/7 Bagpipe] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 4/7 [Bagpipe] (3:44) 10-2-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -641,7 +641,7 @@ z8 |]
 
 
 X: 5
-T: <Dancing With Tears-Ultravox'84> 5/7 Drums] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 5/7 [Drums] (3:44) 10-2-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -799,7 +799,7 @@ z6 [A/B/] z3/2 |
 
 
 X: 6
-T: <Dancing With Tears-Ultravox'84> 6/7 Lute] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 6/7 [Lute] (3:44) 10-2-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -957,7 +957,7 @@ z8 |]
 
 
 X: 7
-T: <Dancing With Tears-Ultravox'84> 7/7 Horn] (3:44) 10-2-14
+T: <Dancing With Tears-'84-Ultravox> 7/7 [Horn] (3:44) 10-2-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4

@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Love Me Do-Beatles> 1/7 Harp] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 1/7 [Harp] (2:29) 9-16-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -124,7 +124,7 @@ K: C maj
 
 
 X: 2
-T: <Love Me Do-Beatles> 2/7 Flute] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 2/7 [Flute] (2:29) 9-16-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -242,7 +242,7 @@ z3/2 +ppp+ G,/ D3/2 C9/2 |
 
 
 X: 3
-T: <Love Me Do-Beatles> 3/7 Theorbo] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 3/7 [Theorbo] (2:29) 9-16-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -360,7 +360,7 @@ C2 z2 G2 z2 |
 
 
 X: 4
-T: <Love Me Do-Beatles> 4/7 Clarinet] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 4/7 [Clarinet] (2:29) 9-16-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -478,7 +478,7 @@ z3/2 +ppp+ G/ d3/2 c9/2 |
 
 
 X: 5
-T: <Love Me Do-Beatles> 5/7 Bagpipe] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 5/7 [Bagpipe] (2:29) 9-16-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -596,7 +596,7 @@ f3/2 f f3/2 e4 |]
 
 
 X: 6
-T: <Love Me Do-Beatles> 6/7 Drums] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 6/7 [Drums] (2:29) 9-16-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -714,7 +714,7 @@ z2 [^D,/^C/B/] z3/2 [D,/C/B/] z7/2 |
 
 
 X: 7
-T: <Love Me Do-Beatles> 7/7 Pibgorn] (2:29) 9-16-14
+T: <Love Me Do-'63-Beatles> 7/7 [Pibgorn] (2:29) 9-16-14
 %%part-name Pibgorn
 Z: Morganfey
 M: 4/4

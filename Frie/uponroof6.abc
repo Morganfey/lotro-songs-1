@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Up On the Roof-The Drifters'63> 1/6 Flute] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 1/6 [Flute] (2:35) 10-2-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -105,7 +105,7 @@ B,2 +pppp+ [D,/B,/-] [z3/2B,3/2-] [z4B,3] |]
 
 
 X: 2
-T: <Up On the Roof-The Drifters'63> 2/6 Theorbo] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 2/6 [Theorbo] (2:35) 10-2-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -204,7 +204,7 @@ G,3 z z4 |]
 
 
 X: 3
-T: <Up On the Roof-The Drifters'63> 3/6 Clarinet] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 3/6 [Clarinet] (2:35) 10-2-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -304,7 +304,7 @@ e3- [de-] [B4-e4-] |
 
 
 X: 4
-T: <Up On the Roof-The Drifters'63> 4/6 Harp] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 4/6 [Harp] (2:35) 10-2-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -403,7 +403,7 @@ G,3 G, D,4 |
 
 
 X: 5
-T: <Up On the Roof-The Drifters'63> 5/6 Drums] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 5/6 [Drums] (2:35) 10-2-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -502,7 +502,7 @@ K: C maj
 
 
 X: 6
-T: <Up On the Roof-The Drifters'63> 6/6 Lute] (2:35) 10-2-14
+T: <Up On the Roof-'63-The Drifters> 6/6 [Lute] (2:35) 10-2-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4

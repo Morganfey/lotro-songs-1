@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Tell Me What You See-Beatles> 1/6 Harp] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 1/6 [Harp] (2:49) 9-17-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -121,7 +121,7 @@ C//- [C19/4-E19/4-G19/4-c19/4-e19/4-] +fff+ [C-E-G-Bce] [C-E-G-c-e-] [C-E-G-c-de
 
 
 X: 2
-T: <Tell Me What You See-Beatles> 2/6 Flute] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 2/6 [Flute] (2:49) 9-17-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -236,7 +236,7 @@ z248/25 |]
 
 
 X: 3
-T: <Tell Me What You See-Beatles> 3/6 Lute] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 3/6 [Lute] (2:49) 9-17-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -351,7 +351,7 @@ z4 z +ffff+ B [ce] [df] |
 
 
 X: 4
-T: <Tell Me What You See-Beatles> 4/6 Theorbo] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 4/6 [Theorbo] (2:49) 9-17-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -466,7 +466,7 @@ z248/25 |]
 
 
 X: 5
-T: <Tell Me What You See-Beatles> 5/6 Clarinet] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 5/6 [Clarinet] (2:49) 9-17-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -581,7 +581,7 @@ z248/25 |]
 
 
 X: 6
-T: <Tell Me What You See-Beatles> 6/6 Drums] (2:49) 9-17-14
+T: <Tell Me What You See-'65-Beatles> 6/6 [Drums] (2:49) 9-17-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

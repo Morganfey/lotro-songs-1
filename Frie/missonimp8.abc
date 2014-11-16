@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Mission Impossible - Lalo Schifren> 1/8 Harp] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 1/8 [Harp] (3:10) 9-23-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -107,7 +107,7 @@ z8 |]
 
 
 X: 2
-T: <Mission Impossible - Lalo Schifren> 2/8 Flute] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 2/8 [Flute] (3:10) 9-23-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -212,7 +212,7 @@ z/ [G,3/4G3/4c3/4-] c/ z// [^A,//-^d//-] [A,//^A//-d//-] [A//d//] z// C//- [C//c
 
 
 X: 3
-T: <Mission Impossible - Lalo Schifren> 3/8 Flute] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 3/8 [Flute] (3:10) 9-23-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -316,7 +316,7 @@ z/ [G,3/4C3/4-] C/ z// [^A,//^D//-] [A,/D/] z// C,//- [C,//C//-F//-] [C/F/-] F//
 
 
 X: 4
-T: <Mission Impossible - Lalo Schifren> 4/8 Theorbo] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 4/8 Theorbo] (3:10) 9-23-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -418,7 +418,7 @@ z/ G5/4 z// ^A c z2 z// D// ^D/ [C-D-G-] |
 
 
 X: 5
-T: <Mission Impossible - Lalo Schifren> 5/8 Lute] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 5/8 [Lute] (3:10) 9-23-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -523,7 +523,7 @@ z/ G5/4 z// ^A c z3 [C-^D-G-] |
 
 
 X: 6
-T: <Mission Impossible - Lalo Schifren> 6/8 Clarinet] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 6/8 [Clarinet] (3:10) 9-23-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -628,7 +628,7 @@ d/- [G,/-G/-c/-d/] [G,//G//c//-] c/ z// [^A,//-^A//^d//-] +fff+ [A,//A//-d//-] [
 
 
 X: 7
-T: <Mission Impossible - Lalo Schifren> 7/8 Horn] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 7/8 [Horn] (3:10) 9-23-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4
@@ -729,7 +729,7 @@ z8 |]
 
 
 X: 8
-T: <Mission Impossible - Lalo Schifren> 8/8 Drums] (3:10) 9-23-14
+T: <Mission Impossible-'66-Lalo Schifren> 8/8 [Drums] (3:10) 9-23-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

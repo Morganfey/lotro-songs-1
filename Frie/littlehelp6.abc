@@ -1,4 +1,4 @@
-%abc-2.1
+<A Little Help-Beatles>%abc-2.1
 %%song-title       A Little Help-Beatles
 %%song-duration    2:32
 %%song-transcriber Morganfey
@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <A Little Help-Beatles> 1/6 Harp] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  1/6 [Harp] (2:32) 9-21-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -121,7 +121,7 @@ K: C maj
 
 
 X: 2
-T: <A Little Help-Beatles> 2/6 Flute] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  2/6 [Flute] (2:32) 9-21-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -212,7 +212,7 @@ z8 |]
 
 
 X: 3
-T: <A Little Help-Beatles> 3/6 Theorbo] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  3/6 [Theorbo] (2:32) 9-21-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -303,7 +303,7 @@ E,2- E,- E,// z19/4 |]
 
 
 X: 4
-T: <A Little Help-Beatles> 4/6 Lute] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  4/6 [Lute] (2:32) 9-21-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -418,7 +418,7 @@ K: C maj
 
 
 X: 5
-T: <A Little Help-Beatles> 5/6 Clarinet] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  5/6 [Clarinet] (2:32) 9-21-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -509,7 +509,7 @@ z8 |]
 
 
 X: 6
-T: <A Little Help-Beatles> 6/6 Drums] (2:32) 9-21-14
+T: <A Little Help-'67-Beatles>  6/6 [Drums] (2:32) 9-21-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

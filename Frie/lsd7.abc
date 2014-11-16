@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Lucy in the Sky-Beatles> 1/7 Flute] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 1/7 [Flute] (2:23) 9-16-14
 %%part-name Flute
 Z: Morganfey
 M: 3/4
@@ -140,7 +140,7 @@ z39/5 |]
 
 
 X: 2
-T: <Lucy in the Sky-Beatles> 2/7 Lute] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 2/7 [Lute] (2:23) 9-16-14
 %%part-name Lute
 Z: Morganfey
 M: 3/4
@@ -269,7 +269,7 @@ z39/5 |]
 
 
 X: 3
-T: <Lucy in the Sky-Beatles> 3/7 Theorbo] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 3/7 [Theorbo] (2:23) 9-16-14
 %%part-name Theorbo
 Z: Morganfey
 M: 3/4
@@ -398,7 +398,7 @@ A13/40 z299/40 |]
 
 
 X: 4
-T: <Lucy in the Sky-Beatles> 4/7 Horn] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 4/7 [Horn] (2:23) 9-16-14
 %%part-name Horn
 Z: Morganfey
 M: 3/4
@@ -527,7 +527,7 @@ z39/5 |]
 
 
 X: 5
-T: <Lucy in the Sky-Beatles> 5/7 Clarinet] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 5/7 [Clarinet] (2:23) 9-16-14
 %%part-name Clarinet
 Z: Morganfey
 M: 3/4
@@ -666,7 +666,7 @@ z39/5 |]
 
 
 X: 6
-T: <Lucy in the Sky-Beatles> 6/7 Bagpipe] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 6/7 [Bagpipe] (2:23) 9-16-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 3/4
@@ -795,7 +795,7 @@ z39/5 |]
 
 
 X: 7
-T: <Lucy in the Sky-Beatles> 7/7 Drums] (2:23) 9-16-14
+T: <Lucy in the Sky-'67-Beatles> 7/7 [Drums] (2:23) 9-16-14
 %%part-name Drums
 Z: Morganfey
 M: 3/4

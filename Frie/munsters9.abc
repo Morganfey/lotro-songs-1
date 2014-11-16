@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Munsters-TV Show > 1/9 Flute] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 1/9 [Flute] (1:39) 10-2-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -78,7 +78,7 @@ z6 +fff+ [C/^D/^F/A/] [^A,/^C/E/G/] [B,/=C/=D/^D/F/A/] [B,/=D/=F/^G/] |
 
 
 X: 2
-T: <Munsters-TV Show > 2/9 Theorbo] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 2/9 [Theorbo] (1:39) 10-2-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -147,7 +147,7 @@ c'2 c2 z4 |]
 
 
 X: 3
-T: <Munsters-TV Show > 3/9 Clarinet] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 3/9 [Clarinet] (1:39) 10-2-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -216,7 +216,7 @@ z6 +fff+ [c/^d/^f/a/] [^A/^c/e/g/] [B/=c/=d/^d/f/a/] [B/=d/=f/^g/] |
 
 
 X: 4
-T: <Munsters-TV Show > 4/9 Harp] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 4/9 [Harp] (1:39) 10-2-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -285,7 +285,7 @@ z8 |]
 
 
 X: 5
-T: <Munsters-TV Show > 5/9 Drums] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 5/9 [Drums] (1:39) 10-2-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -354,7 +354,7 @@ B B/ z/ +ff+ [^A/-B/] A/ +mf+ B +mp+ [A/-B/] A/ +p+ B/ z/ +ff+ [G,B] +mf+ B/ +ff
 
 
 X: 6
-T: <Munsters-TV Show > 6/9 Bagpipe] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 6/9 [Bagpipe] (1:39) 10-2-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -423,7 +423,7 @@ z8 |
 
 
 X: 7
-T: <Munsters-TV Show > 7/9 Drums] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 7/9 [Drums] (1:39) 10-2-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -492,7 +492,7 @@ B B/ z/ +ff+ [^A/-B/] A/ +mf+ B [A/-B/] A/ +p+ B/ z/ +ff+ [G,B] +mf+ B/ +ff+ ^d/
 
 
 X: 8
-T: <Munsters-TV Show > 8/9 Lute] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 8/9 [Lute] (1:39) 10-2-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -562,7 +562,7 @@ z8 |]
 
 
 X: 9
-T: <Munsters-TV Show > 9/9 Horn] (1:39) 10-2-14
+T: <Munsters-'64-TV Show > 9/9 [Horn] (1:39) 10-2-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4

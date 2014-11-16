@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Revolution-Beatles> 1/7 Flute] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 1/7 [Flute] (3:17) 9-17-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -136,7 +136,7 @@ z8 |]
 
 
 X: 2
-T: <Revolution-Beatles> 2/7 Lute] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 2/7 [Lute] (3:17) 9-17-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -259,7 +259,7 @@ z2 [^d-^g-b-] [d//g//b//] [=d19/4-=g19/4-^a19/4-] |
 
 
 X: 3
-T: <Revolution-Beatles> 3/7 Theorbo] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 3/7 [Theorbo] (3:17) 9-17-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -382,7 +382,7 @@ z4 z z// z11/4 |]
 
 
 X: 4
-T: <Revolution-Beatles> 4/7 Clarinet] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 4/7 [Clarinet] (3:17) 9-17-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -564,7 +564,7 @@ F,- F,// F,3/4- [F,3/4-^A,3/4] [F,/-C/] [^D,2F,2] +fff+ [F,3/4-g3/4-] +f+ [F,3/4
 
 
 X: 5
-T: <Revolution-Beatles> 5/7 Bagpipe] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 5/7 [Bagpipe] (3:17) 9-17-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
@@ -746,7 +746,7 @@ F,- F,// F,3/4- [F,3/4-^A,3/4] [C,/F,/-] [^D,2F,2] [F,3/4-g3/4-] [C,3/4F,3/4-g3/
 
 
 X: 6
-T: <Revolution-Beatles> 6/7 Drums] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 6/7 [Drums] (3:17) 9-17-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -869,7 +869,7 @@ z2 A,// ^d// a// ^C// +fff+ [^A,B] z4 |]
 
 
 X: 7
-T: <Revolution-Beatles> 7/7 Pibgorn] (3:17) 9-17-14
+T: <Revolution-'68-Beatles> 7/7 [Pibgorn] (3:17) 9-17-14
 %%part-name Pibgorn
 Z: Morganfey
 M: 4/4

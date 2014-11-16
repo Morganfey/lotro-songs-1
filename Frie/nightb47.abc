@@ -5,8 +5,10 @@
 %%abc-creator Maestro v2.0.0
 %%abc-version 2.1
 
+
+
 X: 1
-T: <The Night Before-Beatles> 1/7 Harp] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 1/7 [Harp] (2:58) 9-17-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -136,8 +138,10 @@ z2 +fff+ [D/-A/-d/^f/-c'/] [D/A/d/f/] d c' [DAdfa] =f/ g/ f |
 z8 |]
 
 
+
+
 X: 2
-T: <The Night Before-Beatles> 2/7 Flute] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 2/7 [Flute] (2:58) 9-17-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -267,8 +271,10 @@ z8 |
 z8 |]
 
 
+
+
 X: 3
-T: <The Night Before-Beatles> 3/7 Flute] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 3/7 [Flute] (2:58) 9-17-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -398,8 +404,10 @@ z8 |
 z8 |]
 
 
+
+
 X: 4
-T: <The Night Before-Beatles> 4/7 Lute] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 4/7 [Lute] (2:58) 9-17-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -529,8 +537,10 @@ z2 +fff+ [A/-c/-^f/-] [A/-c/-d/f/-] [A-cdf-] [Acf] [A-c-f-] [F/A/-c/-f/-] [G/A/-
 z8 |]
 
 
+
+
 X: 5
-T: <The Night Before-Beatles> 5/7 Theorbo] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 5/7 [Theorbo] (2:58) 9-17-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -658,8 +668,10 @@ D8- |
 D8 |]
 
 
+
+
 X: 6
-T: <The Night Before-Beatles> 6/7 Clarinet] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 6/7 [Clarinet] (2:58) 9-17-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -789,8 +801,10 @@ z8 |
 z8 |]
 
 
+
+
 X: 7
-T: <The Night Before-Beatles> 7/7 Drums] (2:58) 9-17-14
+T: <The Night Before-'65-Beatles> 7/7 [Drums] (2:58) 9-17-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

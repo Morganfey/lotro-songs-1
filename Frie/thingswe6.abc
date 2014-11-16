@@ -5,8 +5,9 @@
 %%abc-creator Maestro v2.0.0
 %%abc-version 2.1
 
+
 X: 1
-T: <Things We Said-Beatles> 1/6 Harp] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 1/6 [Harp] (3:05) 9-17-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -115,8 +116,10 @@ K: C maj
 z8 |]
 
 
+
+
 X: 2
-T: <Things We Said-Beatles> 2/6 Flute] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 2/6 [Flute] (3:05) 9-17-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -233,8 +236,10 @@ z8 |
 z8 |]
 
 
+
+
 X: 3
-T: <Things We Said-Beatles> 3/6 Lute] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 3/6 [Lute] (3:05) 9-17-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -344,8 +349,10 @@ A4- A3 +ppp+ A/ A/ |
 z8 |]
 
 
+
+
 X: 4
-T: <Things We Said-Beatles> 4/6 Theorbo] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 4/6 [Theorbo] (3:05) 9-17-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -452,8 +459,10 @@ A,2- A,3/2 z/ +ff+ E2- E3/2 z/ |
 z8 |]
 
 
+
+
 X: 5
-T: <Things We Said-Beatles> 5/6 Clarinet] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 5/6 [Clarinet] (3:05) 9-17-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -570,8 +579,10 @@ z8 |
 z8 |]
 
 
+
+
 X: 6
-T: <Things We Said-Beatles> 6/6 Drums] (3:05) 9-17-14
+T: <Things We Said-'64-Beatles> 6/6 [Drums] (3:05) 9-17-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

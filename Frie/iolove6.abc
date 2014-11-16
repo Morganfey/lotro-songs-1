@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <It's Only Love-Beatles> 1/6 Harp] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 1/6 [Harp] (1:47) 9-14-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -100,7 +100,7 @@ z8 |]
 
 
 X: 2
-T: <It's Only Love-Beatles> 2/6 Flute] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 2/6 [Flute] (1:47) 9-14-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -172,7 +172,7 @@ z8 |]
 
 
 X: 3
-T: <It's Only Love-Beatles> 3/6 Lute] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 3/6 [Lute] (1:47) 9-14-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -245,7 +245,7 @@ z8 |]
 
 
 X: 4
-T: <It's Only Love-Beatles> 4/6 Theorbo] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 4/6 [Theorbo] (1:47) 9-14-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -317,7 +317,7 @@ z8 |]
 
 
 X: 5
-T: <It's Only Love-Beatles> 5/6 Clarinet] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 5/6 [Clarinet] (1:47) 9-14-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -389,7 +389,7 @@ z8 |]
 
 
 X: 6
-T: <It's Only Love-Beatles> 6/6 Drums] (1:47) 9-14-14
+T: <It's Only Love-'65-Beatles> 6/6 [Drums] (1:47) 9-14-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4

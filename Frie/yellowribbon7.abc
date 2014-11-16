@@ -1,4 +1,4 @@
-%abc-2.1
+cdfxxxx%abc-2.1
 %%song-title       Tie a Yellow Ribbon-Orlando&Dawn'73
 %%song-duration    3:19
 %%song-transcriber Morganfey
@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 1/7 Flute] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 1/7 [Flute] (3:19) 10-2-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -174,7 +174,7 @@ D4 [A,-d] +f+ [A,^d-] +ffff+ [C-d] +f+ [Ce] |
 
 
 X: 2
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 2/7 Theorbo] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 2/7 [Theorbo] (3:19) 10-2-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -330,7 +330,7 @@ F z/ F, z11/2 |]
 
 
 X: 3
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 3/7 Clarinet] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 3/7 [Clarinet] (3:19) 10-2-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -486,7 +486,7 @@ f z/ +ffff+ [F,/-F/] [z/F,/] z3/2 z4 |]
 
 
 X: 4
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 4/7 Harp] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 4/7 [Harp] (3:19) 10-2-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -642,7 +642,7 @@ z2 [d/g/^a/] z7/2 [d/g/a/] z3/2 |
 
 
 X: 5
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 5/7 Drums] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 5/7 [Drums] (3:19) 10-2-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -798,7 +798,7 @@ K: C maj
 
 
 X: 6
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 6/7 Lute] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 6/7 [Lute] (3:19) 10-2-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -955,7 +955,7 @@ z2 [G3/2c3/2-^d3/2-] [G/c/d/] +f+ [G3/2c3/2d3/2] +ff+ [G/c/-d/-] [Gc-d-] [c/d/] 
 
 
 X: 7
-T: <Tie a Yellow Ribbon-Orlando&Dawn'73> 7/7 Horn] (3:19) 10-2-14
+T: <Tie a Yellow Ribbon-'73-Orlando&Dawn> 7/7 [Horn] (3:19) 10-2-14
 %%part-name Horn
 Z: Morganfey
 M: 4/4
