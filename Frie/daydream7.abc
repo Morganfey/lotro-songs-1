@@ -6,7 +6,7 @@
 %%abc-version 2.1
 
 X: 1
-T: <Daydream-Lovin Spoonful> 1/7 Harp] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 1/7 [Harp] (3:41) 9-23-14
 %%part-name Harp
 Z: Morganfey
 M: 4/4
@@ -128,7 +128,7 @@ F,3/4 z29/4 |]
 
 
 X: 2
-T: <Daydream-Lovin Spoonful> 2/7 Flute] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 2/7 [Flute] (3:41) 9-23-14
 %%part-name Flute
 Z: Morganfey
 M: 4/4
@@ -245,7 +245,7 @@ z8 |]
 
 
 X: 3
-T: <Daydream-Lovin Spoonful> 3/7 Theorbo] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 3/7 [Theorbo] (3:41) 9-23-14
 %%part-name Theorbo
 Z: Morganfey
 M: 4/4
@@ -356,7 +356,7 @@ F2- F- F// z19/4 |]
 
 
 X: 4
-T: <Daydream-Lovin Spoonful> 4/7 Lute] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 4/7 [Lute] (3:41) 9-23-14
 %%part-name Lute
 Z: Morganfey
 M: 4/4
@@ -505,7 +505,7 @@ z8 |]
 
 
 X: 5
-T: <Daydream-Lovin Spoonful> 5/7 Clarinet] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 5/7 [Clarinet] (3:41) 9-23-14
 %%part-name Clarinet
 Z: Morganfey
 M: 4/4
@@ -624,7 +624,7 @@ z8 |]
 
 
 X: 6
-T: <Daydream-Lovin Spoonful> 6/7 Drums] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 6/7 [Drums] (3:41) 9-23-14
 %%part-name Drums
 Z: Morganfey
 M: 4/4
@@ -735,7 +735,7 @@ z4 z2 z z// ^A// z/ |
 
 
 X: 7
-T: <Daydream-Lovin Spoonful> 7/7 Bagpipe] (3:41) 9-23-14
+T: <Daydream-'66-Lovin Spoonful> 7/7 [Bagpipe] (3:41) 9-23-14
 %%part-name Bagpipe
 Z: Morganfey
 M: 4/4
